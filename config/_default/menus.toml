@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Research"
-  url = "#posts"
+  url = "research/#projects"
   weight = 20
 
 [[main]]
   name = "Outreach"
-  url = "#outreach"
+  url = "outreach/#cagis"
   weight = 30
 
 [[main]]
   name = "Extracurriculars"
-  url = "#extracurriculars"
+  url = "extracurriculars/"
   weight = 40
 
 [[main]]
