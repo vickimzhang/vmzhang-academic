@@ -79,7 +79,7 @@ tag = "work-study"
  css_class = ""
 +++
 
-
+I was involved in various projects during my undergraduate. Use the toggles to filter, and click to learn more!
 
 
 
