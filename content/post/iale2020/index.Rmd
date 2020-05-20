@@ -1,0 +1,84 @@
+---
+title: My first international conference took place at home
+subtitle: ''
+summary: Here are some thoughts on attending IALE-NA 2020, and some more thoughts about virtual conferences.
+projects: [ugphymata]
+author: [Vicki M. Zhang]
+date: '2020-05-14'
+slug: iale2020
+
+categories:
+  - msc
+  - other
+
+tags: [msc-research, msc-conferences, other]
+
+featured: no
+image:
+  caption: "'Image credit: [**Claudio Testa**](https://unsplash.com/photos/-SO3JtE3gZo)'"
+  focal_point: "smart"
+  preview_only: true
+---
+```{r include = FALSE}
+knitr::opts_chunk$set(eval = FALSE, echo = FALSE, collapse = TRUE, comment = NA, tidy = FALSE)
+```
+
+
+## A virtual IALE-NA 2020
+
+One of my committee members, [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab/), recommended that I attend and present at the Annual Meeting of the [North American Regional Association of the International Association for Landscape Ecology](http://www.ialena.org/) (IALE-NA). Attending an international conference was initially incredibly intimidating for me. So far in my graduate career, I had only created networks within the Toronto ecology & evolution community. My interactions with scientists across borders have been limited to "liking" their tweets and reading their papers. I registered, received confirmation to present a poster, and was really looking forward to it.
+
+Then the COVID-19 pandemic hit.
+
+In order for things to continue, we moved online. It feels like everything is virtual right now, from online Zoom meetings to recorded lectures. When IALE-NA moved online, it was met with trepidation based off of our growing experience with online platforms. Live talks can crash. Wi-Fi can fail. How were we supposed to network and socialize over a screen?
+
+Well, give the IALE conference organizers a little more credit, eh? This conference was remarkably organized. Presenters typically defaulted to pre-recorded MP4 talks that were live-streamed to a session room on Zoom. There was back-up plan after back-up plan in case technology failed us. And, a lot of time was dedicated to Q&A sessions and discussion (to make up for the lack of in-person conversations). There was a built-in chat function specifically to encourage further dialogue. And I can't stop raving about the Networking Mixer! You got the chance to spend 10 minutes (and only 10 minutes) in a Zoom room meeting 2-3 other people in the landscape ecology world, before you are whisked into another room! 
+
+```{r, eval = T}
+blogdown::shortcode("twitter", "1260261100597084160")
+```
+
+It's unprecedented times, but I felt that the virtual delivery of the IALE-NA Annual Meeting exceeded all expectations.
+
+(Not going to lie though, I felt a *slight* sense of relief when IALE-NA moved online. I thought that it would take some pressure off of my first international conference, but now I know that that fear was irrational. Landscape ecologists are the *nicest* scientists ever.)
+
+## Four tips that I picked up.
+
+Having attended a virtual conference now, I realize that it really isn't as different as an in-person conference, because **what you get out of it depends on how much effort you put in**. This matters even more for a virtual conference, because you, the attendee, are not physically there. This distance can really be felt during a virtual conference, so here are four tips that I picked up during my first virtual conference.
+
+### 1. You will still need to prepare.
+
+It's the week before the conference. The schedule is finalized. You highlight all the talks that you are interested in because you *have* to listen to them all. You look up the ResearchGate profiles of the plenary speakers. You plan out every single minute of the meeting so that you can maximize your time spent learning about other researchers' super cool work, but you still make sure to schedule in time spent socializing and meeting your science friends. Not just me, right?
+
+All this prep is still important for a virtual conference! Just because you are not attending in person doesn't mean that preparation is unnecessary. Undoubtedly, there may be no need to pencil in time running between rooms to catch talks at different sessions. However, there is value in scanning through the different sessions to decide what talks you definitely want to see, and who you want to virtually meet. Make a schedule of each day of the conference, but be flexible (see below). Have your notebook ready (or use the virtual conference as a chance to experiment with typing out key notes!). Personally, I like to write down at least one key point or one interesting paper from each session that I was in so I had to make sure I knew what sessions I was in. Also, make time to meet and chat with the keynote speakers. Basically, emulate everything you would do to prep for an in-person conference. A conference that takes place virtually doesn't mean it's a conference without substance.
+
+### 2. Have a plan to stay focused.
+
+This is probably the hardest piece of advice to follow, by far. It is much, *much* easier to zone out during a virtual conference. You are no longer sitting a room surrounded by venerable scientists of your field who can all hold you slightly accountable if you decide to go on your phone or doze off. Instead, you are probably in your comfiest set of loungewear surrounded by an even mixture of device screens, snacks and pillows (at least, I was). A quick peek at your phone plus an urgent email notification that warrants a reply and **poof** you've missed a talk. A quick nap later, and an entire session has gone by.
+
+The good news is that you are not alone. There were times where I felt restless, or bored, or unfocused. The other piece of good news is that the conference organizers know this too. During IALE-NA 2020, there were breaks scheduled frequently (perhaps more frequently than in-person conferences) in order to allow participants to get another high dose of caffeine. Moderators ensured that no one was rambling too much or went over time. Panelist held up their weight during discussion and Q&A sessions.
+
+I had to do a lot more to remain focused though, given my easily-distracted nature. By day two, I had removed almost everything off my desk that I didn't need to minimize distractions. I found a space where I could pay attention to a computer screen for long segments. My  phone was on "Do Not Disturb" mode. I tried to create a set-up that emulated as closely as possible a real conference. But also remember that you are allowed to drift off occasionally. Hold yourself accountable, but don't crucify yourself for missing a minute. No one is paying attention 100% of the time during an in-person meeting anyways.
+
+### 3. Network in other ways.
+
+Collaboration is crucial in scientific fields, but how can we collaborate, or even meet potential collaborators, if we can't even leave the house? Well, I really tried to experiment with networking during a virtual conference, and here is what I discovered will work.
+
+Firstly, make your name and your face known. If you are presenting, stick a headshot on your poster or your talk. Make sure your face is on the conference platform. Post your email or Twitter handle on your conference profile (and elsewhere if appropriate, of course). Clearly associate your work with yourself, and make it easy for people to reach you. Also, conference organizers are there to lend a crutch. The [IALE-NA Twitter account](https://twitter.com/iale_na) constantly retweeted talks and iPoster links, and gave presenters a lot of online space to promote their work and interact with others. Get your research out there on the digital podium.
+
+![Speaking of iPoster's, [here's mine!](https://2020toronto-ialena.ipostersessions.com/templates/iPosters/template3.aspx?s=62-71-43-36-EE-35-05-B9-DB-A8-AC-79-F4-6E-2B-8B)](iposter.jpg)
+
+
+And the other face of the coin: don't be afraid to cold-message. The hallway chats that always happen during conferences are now translated to cold-emails and Twitter DMs and, if your conference supports it, a chat function within the virtual platform. Find someone you want to "meet" between sessions and message them. The good news is that there is probably much less awkwardness than if you introduced yourself in person. I found that people were incredibly responsive on the conference platform, and I sure appreciated people reaching out to talk about my work with me.
+
+### 4. Be flexible.
+
+Remember that schedule? Be prepared for it to change at any given moment. Just like in a real conference, spur-of-the-moment plans will be made, and sometimes it is to your advantage to go along with the flow. You may find yourself meeting a potential new collaborator, and video-chat long after their talk. Or, the session you planned to attend may be the complete opposite of what you had originally expected, and you find yourself in another session of talks. In fact, session-hopping is probably even easier during a virtual conference; no one will be disrupted if you decide to skip out on the rest of the Zoom session and enter another one. Make the conference work for you.
+
+And also, recognize that virtual meetings make up a new environment for everyone (but it looks like they may be here to stay). All conferences, virtual or otherwise, will experience minor hiccups; this chance is exacerbated when everyone is relying so heavily on electronic devices during virtual conferences. Remember to be understanding if things do not go as smoothly as you had hoped. Everyone is trying their best!
+
+## Virtual conferences are going to be a (virtual) reality.
+
+It doesn't *feel* like a real conference. I get that. Life doesn't even feel real right now. But science waits for no one, and I have seen first-hand how the people in the science community are still grinding to produce good work, even in the face of a global disaster.
+
+As a brand new master's student, I was disappointed in all the cancellations but knew that it was absolutely necessary. When IALE-NA decided to move to a virtual conference, I was beyond grateful that I could still present my research in some capacity while meeting other researchers in my field. I was lucky that this conference was also full of brilliant yet friendly scientists that comprise many interdisciplinary fields, and thoughtfully organized by a stellar group of individuals. Your experience during your virtual conference is entirely what you make of it. In these surreal times, let's make the most out of it.
