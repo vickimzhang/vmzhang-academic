@@ -8,6 +8,7 @@ image:
   focal_point: Smart
 
 tags:
+- ug
 - ugprojects
 - fieldcourse
 ---

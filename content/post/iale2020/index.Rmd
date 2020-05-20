@@ -8,16 +8,21 @@ date: '2020-05-14'
 slug: iale2020
 
 categories:
-  - msc
-  - other
+  - MSc
+  - conferences
+  - undergrad research
 
-tags: [msc-research, msc-conferences, other]
+tags: [msc, ugprojects, projects]
 
 featured: no
 image:
   caption: "'Image credit: [**Claudio Testa**](https://unsplash.com/photos/-SO3JtE3gZo)'"
   focal_point: "smart"
   preview_only: true
+  
+output:
+  blogdown::html_page:
+    toc: true
 ---
 ```{r include = FALSE}
 knitr::opts_chunk$set(eval = FALSE, echo = FALSE, collapse = TRUE, comment = NA, tidy = FALSE)

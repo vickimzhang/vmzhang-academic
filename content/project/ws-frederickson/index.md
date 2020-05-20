@@ -9,6 +9,7 @@ image:
   focal_point: Smart
 
 tags:
+- ug
 - work-study
 ---
 

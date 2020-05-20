@@ -1,0 +1,47 @@
+---
+title: I play table tennis!
+subtitle: ''
+summary: You may know of ping pong as a basement sport, but I have been playing table tennis (aka ping pong) competitively since I was 11. I have been involved in table tennis throughout high school and university, for which I have worn many hats. 
+author: [Vicki M. Zhang]
+date: '2020-02-28'
+slug: tabletennis
+
+categories:
+  - athletics
+
+tags: [extracurriculars, table-tennis]
+
+featured: no
+image:
+  caption: ""
+  focal_point: "smart"
+  preview_only: true
+  
+output:
+  blogdown::html_page:
+    toc: false
+---
+I started playing competitive table tennis at 11 years old. I trained with various coaches at the [British Columbia Table Tennis Association](http://bctta.ca/) (BCTTA) and the [Vancouver Table Tennis Club](https://www.vttc.ca/) (VTTC).
+
+## Junior Competitive Level
+I competed on Team BC at the Canadian Junior Championships in 2011, 2012 and 2015, Canadian Senior Championships in 2015, and the US Open in 2014 and 2015, as well as various provincial tournaments.
+
+Notable achievements include:
+
+- Gold – Canadian Junior Championships U15 Girls Team (2011)
+- Bronze – Canadian Junior Championships U18 Girls Team (2015)
+- Champion – US Open Unrated RR (2014)
+- Bronze – Canadian Senior Championships Women’s Team (2015)
+
+
+## University Competitive Level
+
+I competed for the University of Toronto’s table tennis team in my freshman and sophomore years, as part of the [National Collegiate Table Tennis Association](http://www.nctta.org/) (NCTTA). In my first year, our team placed in the top 3 at the Divisional and Regional levels, qualifying for Nationals in Round Rock, Texas, where we were the top Canadian school, and placed 7th overall. In my second year, we placed as well and qualified for Nationals but were unable to attend due to exam schedule conflicts.
+
+### Executive Roles
+
+In my sophomore, junior and senior years, I was part of the executive team for the [U of T Table Tennis Club](http://utttc.sa.utoronto.ca/) (UTTTC), serving as the Public Relations Officer in my second year, Vice President in my third year, and President in my fourth year and the first year of graduate school. UTTTC aims to promote recreational and competitive table tennis both on and off campus through tournaments, intramurals, coaching, intercollegiate competitions and events. The president made important decisions regarding all aspects of the club, prepared and followed a detailed schedule of the club for an academic year, created and adhered to a budget, delegated duties among executive members and maintained communication with all executives to them  in their role. 
+
+## Officiating
+
+I am a certified provincial umpire, umpiring in matches in the Canadian Junior Championships in 2014, and various provincial tournaments

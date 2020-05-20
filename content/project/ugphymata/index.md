@@ -8,7 +8,9 @@ image:
   focal_point: Smart
 
 tags:
+- ug
 - ugprojects
+- projects
 ---
 
 Supervised by [David Punzalan](http://www.davidpunzalan.com/) and [Locke Rowe](https://rowe.eeb.utoronto.ca/), I investigated the distribution and future range shifts of two ambush bugs, Phymata americana and Phymata pennsylvanica. Stay tuned for a blog post on the results!

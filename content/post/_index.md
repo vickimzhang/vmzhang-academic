@@ -12,3 +12,10 @@ header:
   caption: ""
   image: ""
 ---
+
+{{% alert note %}}
+I'm trying to write more. Disclaimer: somewhat rambly.
+
+Find posts by [categories](https://vickimzhang.rbind.io/categories/) or  [tags](https://vickimzhang.rbind.io/tags/).
+{{% /alert %}}
+
