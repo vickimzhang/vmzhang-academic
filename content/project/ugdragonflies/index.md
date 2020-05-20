@@ -1,6 +1,7 @@
 ---
 title: Salty dragonflies
 summary: The effects of road salt on dragonfly nymph growth and survivals
+date: 2020-01-01
 
 image:
   caption: Photo by Vicki M. Zhang

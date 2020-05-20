@@ -1,6 +1,7 @@
 ---
 title: Range shifts of _Phymata_
 summary: Predicting current and future distributions of two ambush bug species.
+date: 2020-05-08
 
 image:
   caption: Photo by David Punzalan

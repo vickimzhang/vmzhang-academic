@@ -2,6 +2,8 @@
 aliases: [ws-frederickson]
 title: Duckweed
 summary: Maintaing duckweed cultures.
+date: 2019-02-28
+
 image:
   caption: "[Photo by David Clode on Unsplash](https://unsplash.com/photos/3udd_NEmgDs)"
   focal_point: Smart

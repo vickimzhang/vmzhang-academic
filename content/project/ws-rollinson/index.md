@@ -2,6 +2,7 @@
 aliases: [ws-rollinson]
 title: Algonquin turtles
 summary: Digitizing turtle records.
+date: 2018-08-01
 
 image:
   caption: '[Photo by Mathew Schwartz on Unsplash](https://unsplash.com/photos/w4tjvHHcwbg)'

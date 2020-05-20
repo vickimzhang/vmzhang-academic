@@ -1,6 +1,7 @@
 ---
 title: China's wetlands
 summary: The effects of human development on aquatic environments and biodiversity in China.
+date: 2018-08-28
 
 image:
   caption: Photo by Zhenglin Yu
