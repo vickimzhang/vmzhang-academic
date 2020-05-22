@@ -71,3 +71,5 @@ user_groups:
 I am a Master’s student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra.
 
 I completed my Bachelor of Science in the Department of Ecology and Evolutionary Biology at the University of Toronto. My undergraduate thesis work was supervised by [Locke Rowe](https://rowe.eeb.utoronto.ca/) and [David Punzalan](https://www.davidpunzalan.com/), where I investigated the distributions and range shifts of two ambush bug species, _Phymata americana_ and _P. pennsylvanica_.
+
+In my free time, I enjoy  [running](https://vickimzhang.rbind.io/post/distance-running) and playing sports, [reading](https://goodreads.com/vickithebookglutton), and hanging out with friends and family.

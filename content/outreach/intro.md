@@ -1,50 +1,25 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 active = true  # Activate this widget? true/false
-weight = 62  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Recent Publications"
+title = ""
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 2
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+ columns = "1"
   
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-    
+  
   # Background color.
   # color = "navy"
   
@@ -67,4 +42,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Preprint.
+### What’s the point of doing good science if you’re not communicating it to others?
+
+Science outreach is essential in encouraging excitement and delivering educational updates in the sciences. Science literacy is more important than ever, and effective communication of the research that we do can greatly increase the general public’s interest, resulting in a more well-informed and knowledgeable society.
+
+#### Let’s make science more accessible, understandable, and fun.
+
