@@ -42,7 +42,7 @@ I have had a WordPress website for about a year now. I have nothing against it. 
 
 But, I wanted to switch from WordPress to my own static site. I have three main reasons for this. First, **WordPress has ads**, and they really clunk up your pages. To remove them, you have to upgrade your site, but I didn't want to do that (I'm a broke grad student, after all). Secondly, **it was buggy**. The theme that I chose used widgets to display social icons which linked to Twitter, LinkedIn, GitHub, and all that. The problem was that this widget sometimes didn't show up on desktop or mobile browsers; there was no rhyme or reason to it not working at all. But thirdly, and I think most importantly, **learning a new thing is fun**.  For about a week, I was waiting to hear back on news about fieldwork while I was locked inside during the COVID-19 pandemic. I wanted a challenge (spoiler alert: I was challenged).
 
-I used the R package `blogdown`, developed by [Yihui Xie](https://yihui.org/en/), [Amber Thomas](https://amber.rbind.io/), [Alison Presmanes Hill](https://alison.rbind.io/) (all very big names in the R world). It allows users to generate a static website using R markdown files. As a graduate student, I do a lot of data analyses on RStudio already (so I am familiar with R code), and I love the functionality of it. I picked the [Hugo Academic](https://academic-demo.netlify.app/) theme for my site (an immensely popular one for academics, hence the name). Here goes.
+I used the R package `blogdown`, developed by [Yihui Xie](https://yihui.org/en/), [Amber Thomas](https://amber.rbind.io/), [Alison Presmanes Hill](https://alison.rbind.io/) (all very big names in the R world). It allows users to generate a static website using R markdown files. As a graduate student, I do a lot of data analyses on RStudio already , so I am familiar with R code, and I love the functionality of it. I picked the [Hugo Academic](https://academic-demo.netlify.app/) theme for my site (an immensely popular one for academics, hence the name). Here goes.
 
 # Steps
 
@@ -52,7 +52,7 @@ My process largely followed the Git and RStudio methods that Academic has, in gr
 
 I'm not going to comprehensively document how I did everything because I replicated a lot of great [follow-along](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/) [blog posts](https://andreaczhang.rbind.io/post/my-1st-blogpost/), [videos](https://www.youtube.com/watch?v=ox_Ue9yzf-0), and [tips](https://lmyint.github.io/post/hugo-academic-tips/) already posted (also, [here is the official `blogdown` book aka user guide aka holy grail](https://bookdown.org/yihui/blogdown/)). Instead, I'm going to document the changes I made and personalization steps I took because, although the Hugo Academic theme is great and all, it's not what I prefer. Also, in the unlikely chance that this post has readers, then I'm also assuming that you're somewhat familiar with the likes of RStudio, Git, editing markdown files, etc..
 
-TO avoid confusion, all code and file names are denoted `like this`, and folders end on a slash `like this/`.
+To avoid confusion, all code and file names are denoted `like this`, and folders end on a slash `like this/`.
 
 ## 1. Fork *Academic Kickstart* and download it locally
 
@@ -78,7 +78,7 @@ Specifically, I wanted:
 - a way to filter by tags (especially for research and posts)
 
 
-Also, some other tips and tricks that helped me (also linked):
+Also, some other tips and tricks that helped me:
 
 - Viewing [locally](https://vickimzhang.rbind.io/post/hugo-blogdown/#run-locally-to-see-how-your-website-looks9)
 - Pushing to GitHub in [one easy step](https://vickimzhang.rbind.io/post/hugo-blogdown/#subsequent-changes)
@@ -92,7 +92,7 @@ On RStudio, your site can be built locally so that any changes you make can take
 
 This was by far the most important thing to me, but also the most challenging to implement. A lot of other static sites only had two pages: one page with all of the info placed inside "widgets", and another page for just blog posts. Widgets are basically sections on your page, and there are a lot of widgets that are very nice to look at and can really spruce up your site. This one-page format works well for some people, but I knew I wanted separated pages with only a couple widgets instead of one page with a lot of widgets. There are two reasons for this: I dislike scrolling up and down on a seemingly endless page (because I am easily distracted), and I wanted to categorize all the facets of my life into separate pages (because I am notoriously organized to a fault).
 
-There really wasn't a lot of documentation on how to do this, apart from a short section in the Academic documents on [how to create a new widget page](https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page). It honestly was easier said than done, because the way the folders in your repo have to be organized, and the way that the folders are named are important. So, here goes.
+There really wasn't a lot of documentation on how to do this, apart from a short section in the Academic documents on [how to create a new widget page](https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page). It honestly was easier said than done, because the way the folders in your repo have to be organized, and the way that the folders are named, are important. So, here goes.
 
 In your `root/` folder, navigate to the folder titled `content/`. These subfolders inside are the bones of your site. The contents that go into the widgets are **all** organized as subfolders within the `content/` folder. This needs to be shouted from the rooftops for how much trouble it caused me, so let me reiterate: the subfolders in the `content/` folder do not correlate specifically with different pages. Instead, subfolders like `project/`, `publication/`, and `post/` are referenced by different widgets which may be on different pages on your site, but all of these folders have to be in the top level in your `content/` folder.
 
@@ -113,7 +113,7 @@ For example, here is how I made new page for "Research":
 
 Great! Cool! New pages!!
 
-Okay. Now, about those widgets. This part stumped me for the better part of an afternoon.
+Okay. Now, adding widgets to your new page. This part stumped me for the better part of an afternoon.
 
 Using the "Research" page as an example again, let's say that you want to have a "[Portfolio](https://sourcethemes.com/academic/docs/page-builder/#portfolio)" widget that showcases your projects. For each individual project:
 
@@ -130,23 +130,30 @@ Using the "Research" page as an example again, let's say that you want to have a
 6. In the `projects` file, under  `[[content.filter_button]]`, rename the tags, and change the `tag =`  to refer to the `tags` you used earlier
 7. Edit your widget to your heart's desire!
 
-One page down, one more to go! I basically repeated this process to create my "Outreach" page, except using other widgets that I wanted. Learning to create a separate page was definitely an uphill battle, but after figuring that out (and become familiar with `blogdown` and my repo), it was smoother sailing to create more pages. I say "smoother" because the next challenge was creating a "Posts" and a "CV" page. More on that below.
+One page down, one more to go! I basically repeated this process to create my "Outreach" page, except using other widgets that I wanted. Learning to create a separate page was definitely an uphill battle, but after figuring that out (and become familiar with `blogdown` and my repo), it was smoother sailing to create more pages. I say "smoother" because the next challenge was creating a "Posts" page. More on that below.
 
 ### Filtering posts by tags/categories
 
-I was able to make my [research projects filterable by tags](https://vickimzhang.rbind.io/research/#ugprojects) and my [publications filterable by publication type](https://vickimzhang.rbind.io/research/publications) in a drop-down menu. I still cannot figure out how to achieve the same thing with posts; I'm envisioning a drop-down menu where I can select "Month/Year" or "Category" and then only posts that match the date or category will pop up. Perhaps the "Posts" page for blog posts is inherently different than "Projects", but also this makes no sense because static pages are static pages are static pages, right? Please [contact me]({{< ref "/home/contact" >}}) if you have any insights.
+I was able to make my [research projects filterable by tags](https://vickimzhang.rbind.io/research/#ugprojects) and my [publications filterable by publication type](https://vickimzhang.rbind.io/research/publications) in a drop-down menu. I still cannot figure out how to achieve the same thing with posts; I'm envisioning a drop-down menu where I can select "Month/Year" or "Category" and then only posts that match the date or category will pop up. Perhaps the "Posts" page for blog posts is inherently different than "Projects", but also this makes no sense because static pages are static pages are static pages, right? Please [contact me](https://vickimzhang.rbind.io/contact) if you have any insights.
 
-In any case, I linked to a page that displays all my blog posts' tags and categories by referencing to the `tags` and `categories` path. The code to reference something (e.g., blog post) within your site is `{{< ref "/post/blog-post" >}}`. The part in quotes is the permalink, or slug, to your blog post. As long as one of your blogs has that URL, then you are able to reference it anywhere in your site. You can link this by using the Markdown syntax `[linked text](link)`. So, putting it all together, I referenced blog categories and tags like this: `[category]({{< ref "/categories" >}})` and `[tags]({{< ref "/tags" >}})`. To keep track of the dates which I published posts, I assigned each month to another tag. For example, I added "2020-May" as a tag to denote posts published during the month of May in 2020.
+In any case, I created a "Journal" page where I have all of my posts. In this page, I linked all the tags and categories by referencing to the `tags` and `categories` path. To keep track of the dates which I published posts, I assigned each month to another tag. For example, I added "2020-May" as a tag to denote posts published during the month of May in 2020. Then, I linked an reference to tags and categories.
+
+The Markdown code to reference something (e.g., blog post) within your site is `{{< ref "/post/blog-post" >}}`. The part in quotes is the permalink, or slug, to your blog post. As long as one of your blogs has that URL, then you are able to reference it anywhere in your site. You can link this by using the syntax `[linked text](link)`. However (and this part is annoying): **this doesn't work for R Markdown**. For blog posts, which are written in R Markdown, I just link whatever I want to reference.
+
+So, putting it all together, I reference blog categories and tags in 2 ways:
+
+- `[category]({{< ref "/categories" >}})` and `[tags]({{< ref "/tags" >}})`. 
+- `[category](vickimzhang.rbind.io/categories})` and `[tags](vickimzhang.rbind.io/tags)`. 
 
 This isn't the most optimal solution yet for me, since I think filtering using a drop-down menu would be much more elegant and intuitive. However, it works.
 
 ## 3. Pushing to GitHub using git
 
-I'm not going to get into the merits of [GitHub](https://apiumhub.com/tech-blog-barcelona/using-github/) and [version control](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control) because I'll be preaching to the choir (if you code, you should have a version control system). This section was written for the sole purpose of delineating the git commands that are needed to push a local folder (or repo) to GitHub.  Also, I am assuming that you have [git](https://git-scm.com/) (the git command line) downloaded.
+I'm not going to get into the merits of [GitHub](https://apiumhub.com/tech-blog-barcelona/using-github/) and [version control](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control) because I'll be preaching to the choir (if you code, you should have a version control system). This section was written to myself for the sole purpose of delineating the git commands that are needed to push a local folder (or repo) to GitHub.
 
 ### Set Up
 
-**You only need to do this once!!** 
+**You only need to do this once!!** (You need the git command line downloaded.)
 
 1. Open git bash
 2. `cd Documents/vmzhang-academic`
