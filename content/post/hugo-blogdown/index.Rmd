@@ -190,7 +190,7 @@ I'm not going to get into the merits of [GitHub](https://apiumhub.com/tech-blog-
 
     Locate your local folder directory.
 
-2. `git commit -a -m new additions/changes`
+2. `git commit -a -m "new additions/changes"`
 
     Here, you are combining a bunch of steps together in one line of code: `-a` means that you are adding all the file changes that were made, the code after `-m` is a message stating what was changed, and you are committing everything.
 
