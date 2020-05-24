@@ -57,14 +57,14 @@ output:
 <h1>Goodbye WordPress, Hello <code>blogdown</code></h1>
 <p>I have had a WordPress website for about a year now. I have nothing against it. It does what I want it to do. It’s okay-looking. It might be working great for you!</p>
 <p>But, I wanted to switch from WordPress to my own static site. I have three main reasons for this. First, <strong>WordPress has ads</strong>, and they really clunk up your pages. To remove them, you have to upgrade your site, but I didn’t want to do that (I’m a broke grad student, after all). Secondly, <strong>it was buggy</strong>. The theme that I chose used widgets to display social icons which linked to Twitter, LinkedIn, GitHub, and all that. The problem was that this widget sometimes didn’t show up on desktop or mobile browsers; there was no rhyme or reason to it not working at all. But thirdly, and I think most importantly, <strong>learning a new thing is fun</strong>. For about a week, I was waiting to hear back on news about fieldwork while I was locked inside during the COVID-19 pandemic. I wanted a challenge (spoiler alert: I was challenged).</p>
-<p>I used the R package <code>blogdown</code>, developed by <a href="https://yihui.org/en/">Yihui Xie</a>, <a href="https://amber.rbind.io/">Amber Thomas</a>, <a href="https://alison.rbind.io/">Alison Presmanes Hill</a> (all very big names in the R world). It allows users to generate a static website using R markdown files. As a graduate student, I do a lot of data analyses on RStudio already (so I am familiar with R code), and I love the functionality of it. I picked the <a href="https://academic-demo.netlify.app/">Hugo Academic</a> theme for my site (an immensely popular one for academics, hence the name). Here goes.</p>
+<p>I used the R package <code>blogdown</code>, developed by <a href="https://yihui.org/en/">Yihui Xie</a>, <a href="https://amber.rbind.io/">Amber Thomas</a>, <a href="https://alison.rbind.io/">Alison Presmanes Hill</a> (all very big names in the R world). It allows users to generate a static website using R markdown files. As a graduate student, I do a lot of data analyses on RStudio already , so I am familiar with R code, and I love the functionality of it. I picked the <a href="https://academic-demo.netlify.app/">Hugo Academic</a> theme for my site (an immensely popular one for academics, hence the name). Here goes.</p>
 </div>
 <div id="steps" class="section level1">
 <h1>Steps</h1>
 <p>There are so many really good articles of step-by-step instructions on how to create your own website. Since I wanted to use the Academic theme, I Googled iterations of “Hugo”, “Academic”, and “blogdown” for an entire weekend while getting my homepage set up, and I had no less than 20 open tabs from different people who all did something differently. <strong>The end result is (mostly) the same</strong>. So, I guess this post doesn’t really add anything new, <em>per se</em>, but I think it is still useful to document my process and what I’ve learned from this endeavor for myself. Maybe this will become obsolete in five years when another package comes out that makes the whole process even simpler. Who knows. At least I learned something from it.</p>
 <p>My process largely followed the Git and RStudio methods that Academic has, in great detail, on their <a href="https://sourcethemes.com/academic/docs/install/">Install</a> page. However, any of their other methods do the same job, and it really depends on what you, the user, are most comfortable with. (Side note: by no means am I “comfortable” with Git, but after all of this, I can now use 3 Git commands without having to Google what they are anymore.)</p>
 <p>I’m not going to comprehensively document how I did everything because I replicated a lot of great <a href="https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/">follow-along</a> <a href="https://andreaczhang.rbind.io/post/my-1st-blogpost/">blog posts</a>, <a href="https://www.youtube.com/watch?v=ox_Ue9yzf-0">videos</a>, and <a href="https://lmyint.github.io/post/hugo-academic-tips/">tips</a> already posted (also, <a href="https://bookdown.org/yihui/blogdown/">here is the official <code>blogdown</code> book aka user guide aka holy grail</a>). Instead, I’m going to document the changes I made and personalization steps I took because, although the Hugo Academic theme is great and all, it’s not what I prefer. Also, in the unlikely chance that this post has readers, then I’m also assuming that you’re somewhat familiar with the likes of RStudio, Git, editing markdown files, etc..</p>
-<p>TO avoid confusion, all code and file names are denoted <code>like this</code>, and folders end on a slash <code>like this/</code>.</p>
+<p>To avoid confusion, all code and file names are denoted <code>like this</code>, and folders end on a slash <code>like this/</code>.</p>
 <div id="fork-academic-kickstart-and-download-it-locally" class="section level2">
 <h2>1. Fork <em>Academic Kickstart</em> and download it locally</h2>
 <p>Here’s the <a href="https://github.com/sourcethemes/academic-kickstart">Academic Kickstart</a> repo. Fork it. I also renamed it to “vmzhang-academic”; I don’t remember why but probably because I am still scared of Git Bash.</p>
@@ -82,7 +82,7 @@ output:
 <li>multiple <a href="https://www.vickimzhang.rbind.io/post/hugo-blogdown/#making-new-separate-widget-pages">separate pages</a></li>
 <li>a way to filter by tags (especially for research and posts)</li>
 </ul>
-<p>Also, some other tips and tricks that helped me (also linked):</p>
+<p>Also, some other tips and tricks that helped me:</p>
 <ul>
 <li>Viewing <a href="https://vickimzhang.rbind.io/post/hugo-blogdown/#run-locally-to-see-how-your-website-looks9">locally</a></li>
 <li>Pushing to GitHub in <a href="https://vickimzhang.rbind.io/post/hugo-blogdown/#subsequent-changes">one easy step</a></li>
@@ -95,7 +95,7 @@ output:
 <div id="making-new-separate-widget-pages" class="section level3">
 <h3>Making new, separate widget pages</h3>
 <p>This was by far the most important thing to me, but also the most challenging to implement. A lot of other static sites only had two pages: one page with all of the info placed inside “widgets”, and another page for just blog posts. Widgets are basically sections on your page, and there are a lot of widgets that are very nice to look at and can really spruce up your site. This one-page format works well for some people, but I knew I wanted separated pages with only a couple widgets instead of one page with a lot of widgets. There are two reasons for this: I dislike scrolling up and down on a seemingly endless page (because I am easily distracted), and I wanted to categorize all the facets of my life into separate pages (because I am notoriously organized to a fault).</p>
-<p>There really wasn’t a lot of documentation on how to do this, apart from a short section in the Academic documents on <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page">how to create a new widget page</a>. It honestly was easier said than done, because the way the folders in your repo have to be organized, and the way that the folders are named are important. So, here goes.</p>
+<p>There really wasn’t a lot of documentation on how to do this, apart from a short section in the Academic documents on <a href="https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page">how to create a new widget page</a>. It honestly was easier said than done, because the way the folders in your repo have to be organized, and the way that the folders are named, are important. So, here goes.</p>
 <p>In your <code>root/</code> folder, navigate to the folder titled <code>content/</code>. These subfolders inside are the bones of your site. The contents that go into the widgets are <strong>all</strong> organized as subfolders within the <code>content/</code> folder. This needs to be shouted from the rooftops for how much trouble it caused me, so let me reiterate: the subfolders in the <code>content/</code> folder do not correlate specifically with different pages. Instead, subfolders like <code>project/</code>, <code>publication/</code>, and <code>post/</code> are referenced by different widgets which may be on different pages on your site, but all of these folders have to be in the top level in your <code>content/</code> folder.</p>
 <p>To make new pages, <strong>make new folders</strong>! Do not change any of the other folders (or do, if you know what you’re doing. I’m not your keeper. Just saying, I wish someone told me not to change the other folders).</p>
 <p>For example, here is how I made new page for “Research”:</p>
@@ -118,7 +118,7 @@ output:
 <li>Repeat for other pages. Make sure new folders that are created have an <code>index</code> file, populate the folder with all the widgets you want on the page, and edit the <code>menus</code> file</li>
 </ol>
 <p>Great! Cool! New pages!!</p>
-<p>Okay. Now, about those widgets. This part stumped me for the better part of an afternoon.</p>
+<p>Okay. Now, adding widgets to your new page. This part stumped me for the better part of an afternoon.</p>
 <p>Using the “Research” page as an example again, let’s say that you want to have a “<a href="https://sourcethemes.com/academic/docs/page-builder/#portfolio">Portfolio</a>” widget that showcases your projects. For each individual project:</p>
 <ol style="list-style-type: decimal">
 <li>Inside the now-empty <code>project/</code> folder, create a further <code>newproject/</code> subfolder that reference a project</li>
@@ -140,21 +140,27 @@ output:
 <li>In the <code>projects</code> file, under <code>[[content.filter_button]]</code>, rename the tags, and change the <code>tag =</code> to refer to the <code>tags</code> you used earlier</li>
 <li>Edit your widget to your heart’s desire!</li>
 </ol>
-<p>One page down, one more to go! I basically repeated this process to create my “Outreach” page, except using other widgets that I wanted. Learning to create a separate page was definitely an uphill battle, but after figuring that out (and become familiar with <code>blogdown</code> and my repo), it was smoother sailing to create more pages. I say “smoother” because the next challenge was creating a “Posts” and a “CV” page. More on that below.</p>
+<p>One page down, one more to go! I basically repeated this process to create my “Outreach” page, except using other widgets that I wanted. Learning to create a separate page was definitely an uphill battle, but after figuring that out (and become familiar with <code>blogdown</code> and my repo), it was smoother sailing to create more pages. I say “smoother” because the next challenge was creating a “Posts” page. More on that below.</p>
 </div>
 <div id="filtering-posts-by-tagscategories" class="section level3">
 <h3>Filtering posts by tags/categories</h3>
-<p>I was able to make my <a href="https://vickimzhang.rbind.io/research/#ugprojects">research projects filterable by tags</a> and my <a href="https://vickimzhang.rbind.io/research/publications">publications filterable by publication type</a> in a drop-down menu. I still cannot figure out how to achieve the same thing with posts; I’m envisioning a drop-down menu where I can select “Month/Year” or “Category” and then only posts that match the date or category will pop up. Perhaps the “Posts” page for blog posts is inherently different than “Projects”, but also this makes no sense because static pages are static pages are static pages, right? Please [contact me]({{&lt; ref “/home/contact” &gt;}}) if you have any insights.</p>
-<p>In any case, I linked to a page that displays all my blog posts’ tags and categories by referencing to the <code>tags</code> and <code>categories</code> path. The code to reference something (e.g., blog post) within your site is <code>{{&lt; ref "/post/blog-post" &gt;}}</code>. The part in quotes is the permalink, or slug, to your blog post. As long as one of your blogs has that URL, then you are able to reference it anywhere in your site. You can link this by using the Markdown syntax <code>[linked text](link)</code>. So, putting it all together, I referenced blog categories and tags like this: <code>[category]({{&lt; ref "/categories" &gt;}})</code> and <code>[tags]({{&lt; ref "/tags" &gt;}})</code>. To keep track of the dates which I published posts, I assigned each month to another tag. For example, I added “2020-May” as a tag to denote posts published during the month of May in 2020.</p>
+<p>I was able to make my <a href="https://vickimzhang.rbind.io/research/#ugprojects">research projects filterable by tags</a> and my <a href="https://vickimzhang.rbind.io/research/publications">publications filterable by publication type</a> in a drop-down menu. I still cannot figure out how to achieve the same thing with posts; I’m envisioning a drop-down menu where I can select “Month/Year” or “Category” and then only posts that match the date or category will pop up. Perhaps the “Posts” page for blog posts is inherently different than “Projects”, but also this makes no sense because static pages are static pages are static pages, right? Please <a href="https://vickimzhang.rbind.io/contact">contact me</a> if you have any insights.</p>
+<p>In any case, I created a “Journal” page where I have all of my posts. In this page, I linked all the tags and categories by referencing to the <code>tags</code> and <code>categories</code> path. To keep track of the dates which I published posts, I assigned each month to another tag. For example, I added “2020-May” as a tag to denote posts published during the month of May in 2020. Then, I linked an reference to tags and categories.</p>
+<p>The Markdown code to reference something (e.g., blog post) within your site is <code>{{&lt; ref "/post/blog-post" &gt;}}</code>. The part in quotes is the permalink, or slug, to your blog post. As long as one of your blogs has that URL, then you are able to reference it anywhere in your site. You can link this by using the syntax <code>[linked text](link)</code>. However (and this part is annoying): <strong>this doesn’t work for R Markdown</strong>. For blog posts, which are written in R Markdown, I just link whatever I want to reference.</p>
+<p>So, putting it all together, I reference blog categories and tags in 2 ways:</p>
+<ul>
+<li><code>[category]({{&lt; ref "/categories" &gt;}})</code> and <code>[tags]({{&lt; ref "/tags" &gt;}})</code>.</li>
+<li><code>[category](vickimzhang.rbind.io/categories})</code> and <code>[tags](vickimzhang.rbind.io/tags)</code>.</li>
+</ul>
 <p>This isn’t the most optimal solution yet for me, since I think filtering using a drop-down menu would be much more elegant and intuitive. However, it works.</p>
 </div>
 </div>
 <div id="pushing-to-github-using-git" class="section level2">
 <h2>3. Pushing to GitHub using git</h2>
-<p>I’m not going to get into the merits of <a href="https://apiumhub.com/tech-blog-barcelona/using-github/">GitHub</a> and <a href="https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control">version control</a> because I’ll be preaching to the choir (if you code, you should have a version control system). This section was written for the sole purpose of delineating the git commands that are needed to push a local folder (or repo) to GitHub. Also, I am assuming that you have <a href="https://git-scm.com/">git</a> (the git command line) downloaded.</p>
+<p>I’m not going to get into the merits of <a href="https://apiumhub.com/tech-blog-barcelona/using-github/">GitHub</a> and <a href="https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control">version control</a> because I’ll be preaching to the choir (if you code, you should have a version control system). This section was written to myself for the sole purpose of delineating the git commands that are needed to push a local folder (or repo) to GitHub.</p>
 <div id="set-up" class="section level3">
 <h3>Set Up</h3>
-<p><strong>You only need to do this once!!</strong></p>
+<p><strong>You only need to do this once!!</strong> (You need the git command line downloaded.)</p>
 <ol style="list-style-type: decimal">
 <li><p>Open git bash</p></li>
 <li><p><code>cd Documents/vmzhang-academic</code></p>
@@ -178,7 +184,7 @@ output:
 <ol style="list-style-type: decimal">
 <li><p><code>cd Documents/vmzhang-academic</code></p>
 <p>Locate your local folder directory.</p></li>
-<li><p><code>git commit -a -m new additions/changes</code></p>
+<li><p><code>git commit -a -m "new additions/changes"</code></p>
 <p>Here, you are combining a bunch of steps together in one line of code: <code>-a</code> means that you are adding all the file changes that were made, the code after <code>-m</code> is a message stating what was changed, and you are committing everything.</p></li>
 <li><p><code>git push origin master</code></p>
 <p>Push all committed changes.</p></li>
