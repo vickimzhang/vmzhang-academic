@@ -5,3 +5,14 @@
 resources/
 public/
 .Rproj.user
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# public
+public/
+.Rproj.user/
+.Rproj.user

@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Journal
 
 # View.
 #   1 = List
@@ -16,8 +16,5 @@ header:
 {{% alert note %}}
 I'm trying to write more. Disclaimer: somewhat rambly.
 
-Find posts by [categories](https://vickimzhang.rbind.io/tags/) or [tags](https://vickimzhang.rbind.io/tags/).
+Find posts by [category]({{< ref "/categories" >}}) or by [tags]({{< ref "/tags" >}}).
 {{% /alert %}}
-
-
-

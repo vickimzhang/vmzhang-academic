@@ -68,9 +68,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Master’s student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra. Other current projects include improving RStats, data visualization and modelling skills, and developing mentoring and pedagogy skills in university-level science courses and research.
+I am a Master’s student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra. Other current projects include improving RStats, data visualization and modelling skills, and developing mentorship and pedagogical skills in university-level science courses and research.
 
 I completed my Bachelor of Science in the Department of Ecology and Evolutionary Biology at the University of Toronto. My undergraduate thesis work was supervised by [Locke Rowe](https://rowe.eeb.utoronto.ca/) and [David Punzalan](https://www.davidpunzalan.com/), where I investigated the distributions and range shifts of two ambush bug species, _Phymata americana_ and _P. pennsylvanica_.
 
 
-In my free time, I enjoy  [running](https://vickimzhang.rbind.io/post/distance-running) and playing sports, [reading](https://goodreads.com/vickithebookglutton), and hanging out with friends and family.
+In my free time, I enjoy [running]({{< ref "/post/distance-running/index.Rmd" >}}) and playing sports, [reading](https://goodreads.com/vickithebookglutton), and hanging out with friends and family.
