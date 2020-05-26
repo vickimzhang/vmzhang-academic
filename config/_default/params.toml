@@ -90,7 +90,7 @@ address = {street = "DV2020 3359 Mississauga Road", city = "Mississauga", region
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.549088", longitude = "-79.663232"}
+coordinates = {latitude = "43.549203", longitude = "-79.663201"}
 
 # Directions for visitors to locate you.
 directions = ""
