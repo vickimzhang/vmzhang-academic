@@ -1,8 +1,8 @@
 ---
 title: Climate change has different predicted effects on the range shifts of two hybridising ambush bug (Phymata) species.
-event: International Association for Landscape Ecology - North America Region Virtual Meeting
+event: North America Region Virtual Meeting
 
-location: University of Toronto
+location: International Association for Landscape Ecology
 
 summary: iPoster. International Association for Landscape Ecology - North America.
 abstract: "Climate change can have a variable number of effects on different species, even closely-related species. In the present study, I use `Maxent`, a machine-learning species distribution software, to predict the future ranges of two closely-related ambush bug species found in overlapping distributions, *P. americana* and *P. pennsylvanica*. The results provide evidence for species-specific environmental requirements and highlight the effects of climate change on range shifts. Understanding how these abiotic factors affect ambush bug distributions will be fundamental for future research on their taxonomy and conservation."

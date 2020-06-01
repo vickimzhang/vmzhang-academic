@@ -31,7 +31,7 @@ knitr::opts_chunk$set(eval = FALSE, echo = FALSE, collapse = TRUE, comment = NA,
 
 ## A virtual IALE-NA 2020
 
-One of my committee members, [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab/), recommended that I attend and present at the Annual Meeting of the [North American Regional Association of the International Association for Landscape Ecology](http://www.ialena.org/) (IALE-NA). Attending an international conference was initially incredibly intimidating for me. So far in my graduate career, I had only created networks within the Toronto ecology & evolution community. My interactions with scientists across borders have been limited to "liking" their tweets and reading their papers. I registered, received confirmation to present a poster, and was really looking forward to it.
+One of my committee members, [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab/), recommended that I attend and present at the Annual Meeting of the [North American Regional Association of the International Association for Landscape Ecology](http://www.ialena.org/) (IALE-NA). Attending an international conference was initially incredibly intimidating for me. So far in my graduate career, I had only created networks within the Toronto ecology and evolution community. My interactions with scientists across borders have been limited to "liking" their tweets and reading their papers. I registered, received confirmation to present a poster, and was really looking forward to it.
 
 Then the COVID-19 pandemic hit.
 

@@ -1,8 +1,8 @@
 ---
 title: Hot Models - projecting future climate-driven distributions of two ambush bug species, Phymata americana and Phymata pennsylvanica.
-event: Toronto Entomologist's Association Student Symposium
+event: Student Symposium, Toronto
 
-location: Toronto
+location: Toronto Entomologist Association
 
 summary: Invited talk. Toronto Entomologist's Association Student Symposium.
 abstract: "Climate change can have a variable number of effects on different species, even closely-related species. In the present study, I use `Maxent`, a machine-learning species distribution software, to predict the future ranges of two closely-related ambush bug species found in overlapping distributions, *P. americana* and *P. pennsylvanica*. The results provide evidence for species-specific environmental requirements and highlight the effects of climate change on range shifts. Understanding how these abiotic factors affect ambush bug distributions will be fundamental for future research on their taxonomy and conservation."
