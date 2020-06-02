@@ -12,13 +12,9 @@ weight = 10  # Order that this section will appear.
   #   4 = Citation (publication only)
  columns = "1"
 
-title = "CV"
+title = "Interests"
 subtitle = ""
 +++
-
-{{% alert note %}}
-PDF and references available upon request.
-{{% /alert %}}
 
 # Research Interests
 

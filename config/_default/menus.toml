@@ -11,12 +11,50 @@
 [[main]]
   name = "Research"
   url = "research/"
+  identifier = "research"
   weight = 20
+
+[[main]]
+  name = "Master's Research"
+  url = "research#msc"
+  parent = "research"
+  weight = 21
+
+[[main]]
+  name = "Undergrad Research"
+  url = "research#ugprojects"
+  parent = "research"
+  weight = 22
 
 [[main]]
   name = "Outreach"
   url = "outreach/"
+  identifier = "outreach"
   weight = 30
+
+[[main]]
+  name = "Why outreach?"
+  url = "outreach/"
+  parent = "outreach"
+  weight = 30
+
+[[main]]
+  name = "CAGIS"
+  url = "outreach#cagis"
+  parent = "outreach"
+  weight = 31
+
+[[main]]
+  name = "Side by Side"
+  url = "outreach#sidebyside"
+  parent = "outreach"
+  weight = 32
+
+[[main]]
+  name = "KSR"
+  url = "outreach#ksr"
+  parent = "outreach"
+  weight = 33
 
 [[main]]
   name = "Journal"
@@ -26,6 +64,7 @@
 [[main]]
   name = "CV"
   url = "cv/"
+  identifier = "cv"
   weight = 50
 
 [[main]]

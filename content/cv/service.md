@@ -1,7 +1,7 @@
 +++
 # blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 [design]
@@ -12,9 +12,10 @@ weight = 70  # Order that this section will appear.
   #   4 = Citation (publication only)
  columns = "1"
 
-title = "Service"
+title = "Scientific Service"
 subtitle = ""
 +++
+
 # Scientific Service
 
 ## Mentorship 
