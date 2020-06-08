@@ -51,6 +51,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Vicki_M_Zhang
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7426-723X
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Master’s student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra. Other current projects include improving RStats, data visualization and modelling skills, and developing mentorship and pedagogical skills in university-level science courses and research.
+I am a Master’s student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra. Other current projects include improving RStats, data visualization and modelling knowledge, and developing mentorship and pedagogical skills in university-level science courses and research.
 
 I completed my Bachelor of Science in the Department of Ecology and Evolutionary Biology at the University of Toronto. My undergraduate thesis work was supervised by [Locke Rowe](https://rowe.eeb.utoronto.ca/) and [David Punzalan](https://www.davidpunzalan.com/), where I investigated the distributions and range shifts of two ambush bug species, _Phymata americana_ and _P. pennsylvanica_.
 

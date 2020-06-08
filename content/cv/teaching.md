@@ -27,8 +27,6 @@ subtitle = ""
 
 ## Teaching Assistantships 
 
-I will be TAing "Arctic Field Ecology" (BIO483) offered Summer 2021 in Churchill, Manitoba. More info [here](https://www.utm.utoronto.ca/~w3pkota/arctic_field_course_ad.pdf).
-
 **Teaching Assistant, BIO330 (Plant Ecology)**, UTM | Jan 2020-Apr 2020
 
 * Designed and taught two weekly discussion-based tutorial sections.

@@ -19,7 +19,7 @@ categories:
   - scientific-service
 ---
 
-[Canadian Association for Girls in Science](https://girlsinscience.ca/) (CAGIS) is a science club for girls aged 7 to 16 that facilitates interest in Science, Technology, Engineering, and Mathematics (STEM). As a Mississauga chapter volunteer, I connect with STEM scientists and industry professionals to bring monthly events to young girls. These events are usually hosted at the workplaces of science experts and give the girls a behind-the-scenes view and to facilitate an interest in the sciences.
+[Canadian Association for Girls in Science](https://girlsinscience.ca/) (CAGIS) is a science club for girls aged 7 to 16 that facilitates interest in Science, Technology, Engineering, and Mathematics (STEM). As a Mississauga Chapter Volunteer, I connect with STEM scientists and industry professionals to bring monthly events to young girls. These events are usually hosted at the workplaces of science experts and give the girls a behind-the-scenes view and to facilitate an interest in the sciences.
 
 Past events with CAGIS include coding workshops, plant communities sampling, food and nutrition tours, bird banding, and engineering, building and testing mechanics models.
 

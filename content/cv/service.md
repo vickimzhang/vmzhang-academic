@@ -36,7 +36,7 @@ subtitle = ""
 * Assisted two incoming 2nd year EEB students integrate into U of T EEB community, shared experiences, ensured mentees are aware of opportunities and resources.
 * Attended events, workshops and lab meetings with mentees.
 
-**E-Mentor**, University College | June 2018-Sept 2019
+**E-Mentor**, University College | Jun 2018-Sep 2019
 * Assisted incoming UC freshmen prepare for and transition into first year by providing a valuable personal connection, information about events, referrals to campus resources.
 * Answered all emails and questions.
 

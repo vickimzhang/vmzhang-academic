@@ -41,6 +41,8 @@ If you’re looking to lose weight, get shredded, and can’t commit to hours of
 
 ### Some stats
 
+These are just some runs that I'm especially proud of. More stats on [Strava](https://www.strava.com/athletes/vickiz).
+
 Official races:
 
 +---------------+---------------+--------------------+----------------------+
@@ -54,7 +56,7 @@ Official races:
 +---------------+---------------+--------------------+----------------------+
 
 
-Personal PRs (not part of official races, timed on Nike Run App):
+Personal PRs (not part of official races):
 
 +---------------+---------------+--------------------+----------------------+
 | Distance      | PR            | Date               |Notes                 |
@@ -65,4 +67,6 @@ Personal PRs (not part of official races, timed on Nike Run App):
 +---------------+---------------+--------------------+----------------------+
 | 21.1 km       | 2:01:42       | October 20, 2019   |- practice half       |
 +---------------+---------------+--------------------+----------------------+
+
+
 

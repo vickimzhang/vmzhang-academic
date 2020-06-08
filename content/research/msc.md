@@ -50,3 +50,6 @@ subtitle = ""
 I started my master’s work in January 2020 with [Peter Kotanen](https://www.utm.utoronto.ca/~w3pkota/), investigating the invasion risk of non-native species in the subarctic. My fieldwork takes place in Churchill, Manitoba (the polar bear capital of the world), where I study why non-native plants invade some areas but not others.
 
 This research is becoming a crucial field of research, as pristine northern ecosystems are extremely vulnerable to climate change, which can increase the prevalence of invasive species.
+
+
+In addition to research, I will also be TAing "Arctic Field Ecology" (BIO483) offered Summer 2021 in Churchill, Manitoba. More info [here](https://www.utm.utoronto.ca/~w3pkota/arctic_field_course_ad.pdf).
