@@ -18,37 +18,38 @@ subtitle = ""
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office"
-  description = "100%" 
+  description = "Advanced skills in Word, Excel, PowerPoint and Outlook." 
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Descriptive statistics; exploratory data analyses and visualization; regression, modelling, Bayesian inference."
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Maxent"
-  description = "80%"
-  
+
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "10%"
+  description = "Basic skills and some experience."
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Maxent"
+  description = "Intermediate skill in species distribution modelling, output analyses."
 
 [[feature]]
   icon = "language"
   icon_pack = "fa"
   name = "English"
-  description = "Native speaker. Strong reading and writing literacy."
+  description = "Native speaker; strong reading and writing literacy."
 
 [[feature]]
   icon = "language"
   icon_pack = "fa"
   name = "Mandarin Chinese"
-  description = "Native speaker. Intermediate reading and writing literacy."
+  description = "Native speaker; sIntermediate reading and writing literacy."
 
 # Uncomment to use emoji icons.
 # [[feature]]
