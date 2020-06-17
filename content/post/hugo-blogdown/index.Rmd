@@ -74,7 +74,7 @@ I am trying to induce excitement! Hold on to that excitement because it is a sli
 
 Specifically, I wanted:
 
-- multiple [separate pages](https://www.vickimzhang.rbind.io/post/hugo-blogdown/#making-new-separate-widget-pages)
+- multiple [separate pages](https://vickimzhang.rbind.io/post/hugo-blogdown/#making-new-separate-widget-pages)
 - a way to filter by tags (especially for research and posts)
 
 
@@ -94,7 +94,7 @@ This was by far the most important thing to me, but also the most challenging to
 
 There really wasn't a lot of documentation on how to do this, apart from a short section in the Academic documents on [how to create a new widget page](https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page). It honestly was easier said than done, because the way the folders in your repo have to be organized and named is important. So, here goes.
 
-In your `root/` folder, navigate to the folder titled `content/`. These subfolders inside are the bones of your site. The contents that go into the widgets are **all** organized as subfolders within the `content/` folder. This needs to be shouted from the rooftops for how much trouble it caused me, so let me reiterate: the subfolders in the `content/` folder do not correlate specifically with different pages. Instead, subfolders like `project/`, `publication/`, and `post/` are referenced by different widgets which may be on different pages on your site, but all of these folders have to be in the top level in your `content/` folder.
+In your `root/` folder, navigate to the folder titled `content/`. These subfolders inside are the bones of your site. The contents that go into the widgets are **all** organized as subfolders within the `content/` folder. This needs to be shouted from the rooftops for how much trouble it caused me, so let me reiterate: the subfolders in the `content/` folder do not correlate specifically with different pages. Instead, subfolders, like `project/`, `publication/`, and `post/`, are referenced by different widgets which may be on different pages on your site, but all of these subfolders have to be in the top level in your `content/` folder.
 
 To make new pages, **make new folders**! Do not change any of the other folders (or do, if you know what you're doing. I'm not your keeper. Just saying, I wish someone told me not to change the other folders).
 
@@ -134,11 +134,11 @@ One page down, one more to go! I basically repeated this process to create my "O
 
 ### Filtering posts by tags/categories
 
-I was able to make my [research projects filterable by tags](https://vickimzhang.rbind.io/research/#ugprojects) and my [publications filterable by publication type](https://vickimzhang.rbind.io/research/publications) in a drop-down menu. I still cannot figure out how to achieve the same thing with posts; I'm envisioning a drop-down menu where I can select "Month/Year" or "Category" and then only posts that match the date or category will pop up. Perhaps the "Posts" page for blog posts is inherently different than "Projects", but also this makes no sense because static pages are static pages are static pages, right? Please [contact me](https://vickimzhang.rbind.io/contact) if you have any insights.
+I was able to make my [research projects filterable by tags](https://vickimzhang.rbind.io/research/#ugprojects) and my [publications filterable by publication type](https://vickimzhang.rbind.io/publication/ ) in a drop-down menu. I still cannot figure out how to achieve the same thing with posts; I'm envisioning a drop-down menu where I can select "Month/Year" or "Category" and then only posts that match the date or category will pop up. Perhaps the "Posts" page for blog posts is inherently different than "Projects", but also this makes no sense because static pages are static pages are static pages, right? Please [contact me](https://vickimzhang.rbind.io/#contact) if you have any insights.
 
-In any case, I created a "Journal" page where I have all of my posts. In this page, I linked all the tags and categories by referencing to the `tags` and `categories` path. To keep track of the dates which I published posts, I assigned each month to another tag. For example, I added "2020-May" as a tag to denote posts published during the month of May in 2020. Then, I linked an reference to tags and categories.
+In any case, I created a "Journal" page where I have all of my posts. In this page, I linked all the tags and categories by referencing to the `tags` and `categories` path. To keep track of the dates which I published posts, I assigned each month to another tag. For example, I added "2020-May" as a tag to denote posts published during the month of May in 2020. Then, I linked a reference to tags and categories.
 
-The Markdown code to reference something (e.g., blog post) within your site is `{{< ref "/post/blog-post" >}}`. The part in quotes is the permalink, or slug, to your blog post. As long as one of your blogs has that URL, then you are able to reference it anywhere in your site. You can link this by using the syntax `[linked text](link)`. However (and this part is annoying): **this doesn't work for R Markdown**. For blog posts, which are written in R Markdown, I just link whatever I want to reference.
+The Markdown code to reference something (e.g., blog post) within your site is `{{< ref "/post/blog-post" >}}`. The part in quotes is the permalink, or slug, to your blog post. As long as one of your blogs has that URL, then you are able to reference it anywhere in your site. You can link this by using the syntax `[linked text](link)`. However (and this part is annoying): **this doesn't work for R Markdown**. For blog posts, which are written in R Markdown, I just link the URL of whatever I want to reference.
 
 So, putting it all together, I reference blog categories and tags in 2 ways:
 
@@ -208,7 +208,7 @@ The final stretch! This was the easiest and most fun part of the whole process. 
 
 After you have created a Netlify account, link the repo with your site's static files. Then, follow [this guide](https://sourcethemes.com/academic/docs/install/#install-with-web-browser), starting with "easily edit your site...". You will be assigned a [dummy-url.netlify.com](http://dummy-url.netlify.com), but you can change that to a [more-professional-url.netlify.com](http://more-professional-url.netlify.com). You can also use a subdomain `.rbind.io`, which is explained [here](https://support.rbind.io/about/) (basically tell them what domain name you want, and they will speedily assign you [your-subdomain-name.rbind.io](http://your-subdomain-name.rbind.io)). Or, if you have a custom domain name already, you can use that! The world is your oyster!
 
-Why Netlify instead of GitHub Pages? Well, Netlify does have [a bunch of other features that GitHub doesn't have](https://www.netlify.com/github-pages-vs-netlify/). My main reason for switching (besides [being told by Yihui](https://yihui.org/en/2017/06/netlify-instead-of-github-pages/), who is very convincing), is that GitHub Pages primarily uses Jekyll, another static site generator like Hugo. However, Jekyll is slower and more difficult to set up, an opinion that is shared among many science bloggers. Letting Netlify deploy my site ensures that I do not have to worry about deployment, and I get to see the changes I made within minutes after pushing to GitHub.
+Why Netlify instead of GitHub Pages? Well, Netlify does have [a bunch of other features that GitHub doesn't have](https://www.netlify.com/github-pages-vs-netlify/). My main reason for switching (besides [being told by Yihui](https://yihui.org/en/2017/06/netlify-instead-of-github-pages/), who is very convincing), is that GitHub Pages primarily uses Jekyll, another static site generator like Hugo. However, Jekyll is slower and more difficult to set up, an opinion that is shared among many science bloggers. Letting Netlify deploy my site ensures that I do not have to worry about deployment, and I get to see the changes I make within minutes after pushing to GitHub.
 
 # Final thoughts
 
