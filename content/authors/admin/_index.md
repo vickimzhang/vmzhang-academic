@@ -76,4 +76,4 @@ I am a Master’s student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pk
 I completed my Bachelor of Science in the Department of Ecology and Evolutionary Biology at the University of Toronto. My undergraduate thesis work was supervised by [Locke Rowe](https://rowe.eeb.utoronto.ca/) and [David Punzalan](https://www.davidpunzalan.com/), where I investigated the distributions and range shifts of two ambush bug species, _Phymata americana_ and _P. pennsylvanica_.
 
 
-In my free time, I enjoy [running]({{< ref "/post/distance-running/index.Rmd" >}}) and playing sports, [reading](https://goodreads.com/vickithebookglutton), and hanging out with friends and family.
+Apart from science, I do a lot of athletics, including [running]({{< ref "/post/distance-running/index.Rmd" >}}), paddling for the [Liquid Assets](https://www.liquidassetsdbt.com/) dragon boat team, and playing [table tennis]({{< ref "/post/tabletennis/index.Rmd" >}}). In my downtime, I also [read a lot](https://goodreads.com/vickithebookglutton).

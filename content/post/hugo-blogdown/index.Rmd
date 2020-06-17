@@ -25,7 +25,7 @@ image:
 links:
   - icon_pack: fab
     name: Originally documented on Notion
-    url: 'https://www.notion.so/vmzhang/How-I-used-blogdown-RStudio-to-create-my-own-website-4be20bc964944aeaad4289a2df7ca21c'
+    url: 'https://www.notion.so/vmzhang/How-I-used-blogdown-and-Hugo-to-set-up-a-personal-static-site-5de6801340e2418dbe5cfcadbad47bd3'
   
 output:
   blogdown::html_page:
@@ -50,7 +50,7 @@ There are so many really good articles of step-by-step instructions on how to cr
 
 My process largely followed the Git and RStudio methods that Academic has, in great detail, on their [Install](https://sourcethemes.com/academic/docs/install/) page. However, any of their other methods do the same job, and it really depends on what you, the user, are most comfortable with. (Side note: by no means am I "comfortable" with Git, but after all of this, I can now use 3 Git commands without having to Google what they are anymore.)
 
-I'm not going to comprehensively document how I did everything because I replicated a lot of great [follow-along](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/) [blog posts](https://andreaczhang.rbind.io/post/my-1st-blogpost/), [videos](https://www.youtube.com/watch?v=ox_Ue9yzf-0), and [tips](https://lmyint.github.io/post/hugo-academic-tips/) already posted (also, [here is the official `blogdown` book aka user guide aka holy grail](https://bookdown.org/yihui/blogdown/)). Instead, I'm going to document the changes I made and personalization steps I took because although the Hugo Academic theme is great and all it's not what I prefer. Also, in the unlikely chance that this post has readers, then I'm also assuming that you're already familiar with the likes of RStudio, Git, editing markdown files, etc..
+I'm not going to comprehensively document how I did everything because I replicated a lot of great [follow-along](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/) [blog posts](https://andreaczhang.rbind.io/post/my-1st-blogpost/), [videos](https://www.youtube.com/watch?v=ox_Ue9yzf-0), and [tips](https://lmyint.github.io/post/hugo-academic-tips/) already posted (also, [here is the official `blogdown` book aka user guide aka holy grail](https://bookdown.org/yihui/blogdown/)). Instead, I'm going to document the changes I made and personalization steps I took because although the Hugo Academic theme is great and all it's not what I prefer. Also, in the unlikely chance that this post has readers, then I'm going to go ahead and assume that you're already familiar with the likes of RStudio, Git, editing markdown files, etc..
 
 To avoid confusion, all code and file names are denoted `like this`, and folders end on a slash `like this/`.
 
@@ -80,7 +80,7 @@ Specifically, I wanted:
 
 Also, some other tips and tricks that helped me:
 
-- Viewing [locally](https://vickimzhang.rbind.io/post/hugo-blogdown/#run-locally-to-see-how-your-website-looks9)
+- Viewing [locally](https://vickimzhang.rbind.io/post/hugo-blogdown/#run-locally-to-see-how-your-website-looks)
 - Pushing to GitHub in [one easy step](https://vickimzhang.rbind.io/post/hugo-blogdown/#subsequent-changes)
 - Using [Netlify](https://vickimzhang.rbind.io/post/hugo-blogdown/#deploy-using-netlify-instead-of-github-pages)
 
@@ -88,7 +88,7 @@ Also, some other tips and tricks that helped me:
 
 On RStudio, your site can be built locally so that any changes you make can take effect in real time. This was super helpful. I found that running `blogdown:::serve_site()` and viewing my site in the "Viewer" pane on RStudio was slightly laggy, so I opened the local URL ([http://127.0.0.1:4321/](http://127.0.0.1:4321/)) on my browser, and the site still reloaded every time I ran `blogdown:::serve_site()`. However, sometimes it opened up a new page; I didn't realize this at first, until I saw that many previous iterations of my homepage were taking up all my tab space. I `ctrl` + `w`'d for days.
 
-### Making new, separate widget pages
+### Making new separate widget pages
 
 This was by far the most important thing to me, but also the most challenging to implement. A lot of other static sites only had two pages: one page with all of the info placed inside "widgets", and another page for just blog posts. Widgets are basically sections on your page, and there are a lot of widgets that are very nice to look at and can really spruce up your site. This one-page format works well for some people, but I knew I wanted separated pages with only a couple widgets instead of one page with a lot of widgets. There are two reasons for this: I dislike scrolling up and down on a seemingly endless page (because I am easily distracted), and I wanted to categorize all the facets of my life into separate pages (because I am notoriously organized to a fault).
 
