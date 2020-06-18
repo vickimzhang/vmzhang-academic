@@ -25,6 +25,10 @@ date_format = "Jan 2006"
   location = "Indigo Eaton Center"
   date_start = "2015-10-15"
   date_end = "2020-03-28"
+  description = """
+  * assisted customers to create an exceptional shopping experience, and performed various customer service tasks..
+  * held cashier duties, assisted customers, answered phone inquiries, shelved books, replenished products
+  """
 
 [[experience]]
   title = "Morrison Hall Residence Porter"
