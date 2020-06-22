@@ -19,7 +19,7 @@ image:
   
 output:
   blogdown::html_page:
-    toc: false
+    toc: true
 ---
 I started playing competitive table tennis at 11 years old. I trained with various coaches at the [British Columbia Table Tennis Association](http://bctta.ca/) (BCTTA) and the [Vancouver Table Tennis Club](https://www.vttc.ca/) (VTTC).
 
@@ -29,9 +29,9 @@ I competed on Team BC at the Canadian Junior Championships in 2011, 2012 and 201
 Notable achievements include:
 
 - Gold – Canadian Junior Championships U15 Girls Team (2011)
-- Bronze – Canadian Junior Championships U18 Girls Team (2015)
 - Champion – US Open Unrated RR (2014)
-- Bronze – Canadian Senior Championships Women’s Team (2015)
+- Bronze – Canadian Junior Championships U18 Girls Team (2015)
+- Gold – Canadian Senior Championships Women’s Team (2015)
 
 
 ## University Competitive Level

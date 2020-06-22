@@ -20,7 +20,7 @@ projects: []
   
 output:
   blogdown::html_page:
-    toc: false
+    toc: true
 ---
 
 When I was 10, my elementary school teacher encouraged me to join our school’s track-and-field team and Running Club. I never thought I was a fast runner, but I guess I enjoyed running around enough. That spring, I ran in the [Science Fair Fun Run](https://www.sciencefairs.ca/fun-run/), placing 2nd in my age category, and haven’t looked back since.
@@ -39,7 +39,7 @@ But don’t forget the perks! A nice and easy jog will improve health, and I get
 
 If you’re looking to lose weight, get shredded, and can’t commit to hours of roadside running, I would recommend that you check out other sports (from table tennis to weight lifting, your options are almost unlimited). But, I would also really recommend giving running a go.
 
-### Some stats
+### My stats
 
 These are just some runs that I'm especially proud of. More stats on [Strava](https://www.strava.com/athletes/vickiz).
 
