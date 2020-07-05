@@ -42,12 +42,21 @@ subtitle = ""
 
 ## Leadership
 
-**Communications Director**, UTM Biology Graduate Student Society (BGSS) | Sep 2019-present
+**EEB Rep**, UTM Biology Graduate Student Society (BGSS) | Jun 2020-present
+
+* Represent and engage EEB graduate students in departmental events.
+* Contribute to event planning and execution.
+
+**UTM Rep**, EEB Graduate Student Association (EGSA) | Jun 2020-present
+
+* Represent the EEB graduate students based at UTM and convey updates and information between campuses.
+
+**Communications Director**, UTM Biology Graduate Student Society (BGSS) | Sep 2019-May 2020
 
 * Convey informational messages between internal executives and external biology graduate students.
 * Assist in organizing and promoting social events.
 
-**CUPE Steward**, EEB Graduate Student Association (EGSA) | Sep 2019-present
+**CUPE Steward**, EEB Graduate Student Association (EGSA) | Sep 2019-May 2020
 
 * CUPE Local 3902 Unit 1.
 * Relay information on Union updates and benefit coverage to graduate students. Attend steward’s council meetings.
@@ -99,6 +108,9 @@ subtitle = ""
 * Invited.
 * Presented my undergraduate research and academic experience within department to undergraduate students.
 
+
+## Volunteer
+
 **Undergraduate Volunteer**, Atwood Colloquium in Ecology and Evolution | Apr 2018
 
 * Assisted in the success of the colloquium as part of the set up and clean up committee.
@@ -106,8 +118,6 @@ subtitle = ""
 **Volunteer**, Toronto Undergraduate Linguistic Conference (TULCON) | Mar 2018
 
 * Assisted in signing in presenters, tracking conference attendees, directing attendees, and selling t-shirts as part of the Welcome and Registration Committee.
-
-## Volunteer
 
 **Facilitated Study Group Leader**, U of T Society of Linguistic Undergraduates | 2017-2018
 
