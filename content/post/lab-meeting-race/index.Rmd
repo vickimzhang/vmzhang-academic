@@ -73,7 +73,9 @@ Before we dive in, we have a disclaimer:
 
 Sophie and I decided to host this multi-lab meeting and discussion on race for several reasons. In May and June, the race-related tragedies and subsequent media coverage in the US and Canada were widely accessible, and we not only felt really upset, but also believed that it was the opportune time to do something. We thought that it would be worthwhile to spend an hour with our labs discussing race and racism. Throughout out research, we learned that being actively anti-racist is a lifelong task that involves, at the very least, talking about how race intersects with different aspects of our lives. Since race largely shapes academic life, we felt that an important first step is to start talking about it within our labs. [Discussing race in higher education is important.](https://www.youtube.com/watch?v=ldaBwZc6mPA)
 
-A lot of people believe that politics and science should not mix, and that some topics do not belong in scientific articles, journals or even on scientific Twitter. However, we are in the business of collecting data, and here *the data doesn't lie*. BIPOC people have been oppressed for centuries, have constantly been the victims of racism and police brutality, and are still being targeted in many, if not all, facets of society, including academia. A quote from a Scientific American article, "[Silence Is Never Neutral; Neither Is Science](https://blogs.scientificamerican.com/voices/silence-is-never-neutral-neither-is-science/)", drives home this point: “The pervasive silence on racism across science institutions is self-reinforcing; it creates a culture where talking about racism is actively discouraged and where Black, Latinx and Indigenous scientists cannot bring their whole selves to their work. It also means science may not even be asking the right questions in the first place.”
+A lot of people believe that politics and science should not mix, and that some topics do not belong in scientific articles, journals or even on scientific Twitter. However, we are in the business of collecting data, and here *the data doesn't lie*. BIPOC people have been oppressed for centuries, have constantly been the victims of racism and police brutality, and are still being targeted in many, if not all, facets of society, including academia. A quote from a Scientific American article, "[Silence Is Never Neutral; Neither Is Science](https://blogs.scientificamerican.com/voices/silence-is-never-neutral-neither-is-science/)", drives home this point:
+
+> "The pervasive silence on racism across science institutions is self-reinforcing; it creates a culture where talking about racism is actively discouraged and where Black, Latinx and Indigenous scientists cannot bring their whole selves to their work. It also means science may not even be asking the right questions in the first place.”
 
 We fear that we will say something offensive or incorrect, but if we do not try to talk about race, we **cannot** talk about race, and that will further perpetuate racism.
 
@@ -81,7 +83,7 @@ We fear that we will say something offensive or incorrect, but if we do not try 
 
 There were two sections to this goal: an individual activity and a presentation on anti-Black racism in academia. Before we begin, we want to present a quote by Shelly Tochluk from a "[Witnessing Whiteness](https://witnessingwhiteness.files.wordpress.com/2014/06/ch5_positions_priv.pdf)" workshop series that helped us get into a mental space appropriate for the activity:
 
-“When we enter multiracial spaces, we often take with us our own discomfort with our racial selves. Especially for those of us who have only recently begun to recognize the ways that the more subtle forms of racism emerge, our earlier lack of sensitivity can turn into an awkward oversensitivity. Where once we never noticed race (or at least claimed not to), increased awareness makes issues of race appear ever-present. Race consciousness is at its height and we can often feel paralyzed while trying to figure out how to behave in order to subvert the racism in the room while not appearing racist by concentrating on race in the room! “What will the person of color think? What if I say the wrong thing?” Our deep sense of guilt over our history and our current ineptness damages our ability to relate.”
+> “When we enter multiracial spaces, we often take with us our own discomfort with our racial selves. Especially for those of us who have only recently begun to recognize the ways that the more subtle forms of racism emerge, our earlier lack of sensitivity can turn into an awkward oversensitivity. Where once we never noticed race (or at least claimed not to), increased awareness makes issues of race appear ever-present. Race consciousness is at its height and we can often feel paralyzed while trying to figure out how to behave in order to subvert the racism in the room while not appearing racist by concentrating on race in the room! “What will the person of color think? What if I say the wrong thing?” Our deep sense of guilt over our history and our current ineptness damages our ability to relate.”
 
 ### An individual activity on privilege
 
@@ -89,7 +91,7 @@ This activity, titled "Multiple Modes of Privilege", was adapted from chapter 5,
 
 _**We asked lab members to grab a piece of paper and a pen; the paper was divided so that the left column said "TARGET" and the right column  said "NON-TARGET". Sophie and I alternated reading a series of 10 statements describing situations, and participants identified whether they are a target by making a mark in the appropriate column.**_
 
-#### Situational statements
+**Situational statements**
 
 1. If you believe you have been followed around a store while you shopped because of your race, put a mark on the target side. If this has not been your experience, put a mark on the non-target side.
 
@@ -111,7 +113,7 @@ _**We asked lab members to grab a piece of paper and a pen; the paper was divide
 
 10. If the books you read in school largely featured people of your race, put a mark on the non-target side. If the books you read did not largely feature people of your race, put a mark on the target side.
 
-#### Reflection
+**Reflection**
 
 _**After all statements are read, we debriefed.**_
 
@@ -119,7 +121,7 @@ Notice the number of marks on each side of your paper. The "TARGET" side represe
 
 Consider whether your individual responses were consistent with patterns associated with the typical experience of the various social positions that you represent. We asked that you do not share, as your individual experiences may be best directed under someone who is more equipped to explore these feelings. Instead, we will give everyone one minute to silently reflect, using following questions as a guide.
 
-![Guiding questions for self-reflection.](questions.png)
+![](questions.png)
 
 It's easy to concentrate on areas where we identify as being targets, but a challenge is that a lot of emotion often comes up when we speak about privilege. It is difficult to take responsibility for dismantling privilege in areas where we are part of the dominant group, largely due to the resistance or guilt that arises. In fact, a common issue is that a deep sense of guilt can inadvertently make us less effective allies for those who are targets. This activity was not meant to make people feel bad about their background, but instead to inspire ways to use our privilege to interrupt systemic racism, and to enact real change in several areas of our lives, including academia.
 
