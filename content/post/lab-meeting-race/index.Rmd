@@ -36,7 +36,7 @@ output:
 knitr::opts_chunk$set(eval = FALSE, echo = FALSE, collapse = TRUE, comment = NA, tidy = FALSE)
 ```
 
-This past Thursday, [Sophie B.](https://sophiebreitbart.wordpress.com/) and I co-led a lab meeting discussion about race and racism in academia with our labs ([Kotanen](https://www.utm.utoronto.ca/~w3pkota/), [Johnson](https://evoecolab.wordpress.com/) and [Wagner](http://sites.utm.utoronto.ca/wagnerlab/)). Prior to the discussion, we were nervous but excited; now, following the discussion, we are sharing all the resources that we have gathered in hopes that it might be useful to others who want to lead a discussion. Note: Sophie and I contributed in equal parts research, writing and presenting, and, after encouragement from our supervisors, sought help from [Equity & Diversity Office](https://www.utm.utoronto.ca/equity-diversity/home) at UTM. NNone of the actual open discussion will be posted publicly without consent from the lab. _**Comments in bolded italics are side notes**_
+This past Thursday, [Sophie B.](https://sophiebreitbart.wordpress.com/) and I co-led a lab meeting discussion about race and racism in academia with our labs ([Kotanen](https://www.utm.utoronto.ca/~w3pkota/), [Johnson](https://evoecolab.wordpress.com/) and [Wagner](http://sites.utm.utoronto.ca/wagnerlab/)). Prior to the discussion, we were nervous but excited; now, following the discussion, we are sharing all the resources that we have gathered in hopes that it might be useful to others who want to lead a discussion. Note: Sophie and I contributed in equal parts research, writing and presenting, and, after encouragement from our supervisors, sought help from [Equity & Diversity Office](https://www.utm.utoronto.ca/equity-diversity/home) at UTM. NNone of the actual open discussion will be posted publicly without consent from the labs. _**Comments in bolded italics are side notes**_
 
 ## Introduction
 
@@ -81,13 +81,13 @@ We fear that we will say something offensive or incorrect, but if we do not try 
 
 ## 2. Reflect on our individual relationships with race in and out of academia
 
-There were two sections to this goal: an individual activity and a presentation on anti-Black racism in academia. Before we begin, we want to present a quote by Shelly Tochluk from a "[Witnessing Whiteness](https://witnessingwhiteness.files.wordpress.com/2014/06/ch5_positions_priv.pdf)" workshop series that helped us get into a mental space appropriate for the activity:
+There are two sections to this goal: an individual activity and a presentation on anti-Black racism in academia. Before we begin, we want to present a quote by Shelly Tochluk from a "[Witnessing Whiteness](https://witnessingwhiteness.files.wordpress.com/2014/06/ch5_positions_priv.pdf)" workshop series that helped us get into a mental space appropriate for the activity:
 
 > “When we enter multiracial spaces, we often take with us our own discomfort with our racial selves. Especially for those of us who have only recently begun to recognize the ways that the more subtle forms of racism emerge, our earlier lack of sensitivity can turn into an awkward oversensitivity. Where once we never noticed race (or at least claimed not to), increased awareness makes issues of race appear ever-present. Race consciousness is at its height and we can often feel paralyzed while trying to figure out how to behave in order to subvert the racism in the room while not appearing racist by concentrating on race in the room! “What will the person of color think? What if I say the wrong thing?” Our deep sense of guilt over our history and our current ineptness damages our ability to relate.”
 
 ### An individual activity on privilege
 
-This activity, titled "Multiple Modes of Privilege", was adapted from chapter 5, workshop 5, of "Witnessing Whiteness". It was meant to explore various specific ways that we might receive privilege or be oppressed based on our multiple identities.
+This activity, titled "Multiple Modes of Privilege", was adapted from chapter 5, workshop 5 of "[Witnessing Whiteness](https://witnessingwhiteness.files.wordpress.com/2014/06/ch5_positions_priv.pdf)". It is meant to explore various specific ways that we might receive privilege or be oppressed based on our multiple identities.
 
 _**We asked lab members to grab a piece of paper and a pen; the paper was divided so that the left column said "TARGET" and the right column  said "NON-TARGET". Sophie and I alternated reading a series of 10 statements describing situations, and participants identified whether they are a target by making a mark in the appropriate column.**_
 
@@ -131,7 +131,7 @@ It's easy to concentrate on areas where we identify as being targets, but a chal
 
 _**After the activity, we presented some ways of how race and science are intertwined.**_
 
-The aim in this next section to demonstrate that science is implicit in racial tendencies. There seems to be collective amnesia especially surrounding the role that science played in legitimizing and justifying racism and other atrocities, and how differences among people were evolving into scientific theories about racial hierarchies. By understanding and reckoning with the legacy of past science, we hope that this makes us better scientists and better humans in our diversifying fields. By no means is this an extensive history, and we really encourage digging deeper in the history, both scientific and otherwise, especially on topics like the American Civil War, the Civil Rights Movement, and scientific racism. You might also consider how pseudoscience and scientific racism of the past have affect internal biases and help entrench racism into our social systems, and the impact of work in your field.
+The aim in this next section to demonstrate that science is implicit in racial tendencies. There seems to be collective amnesia especially surrounding the role that science played in legitimizing and justifying racism and other atrocities, and how differences among people were evolving into scientific theories about racial hierarchies. By understanding and reckoning with the legacy of past science, we hope that this makes us better scientists and better humans in our diversifying fields. By no means is this an extensive history, and we really encourage digging deeper in the history, both scientific and otherwise, especially on topics like the American Civil War, the Civil Rights Movement, and scientific racism. You might also consider how pseudoscience and scientific racism of the past affect internal biases and help entrench racism into our social systems, and the impact on your work in your field.
 
 #### Scientific Racism
 
