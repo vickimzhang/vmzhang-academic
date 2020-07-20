@@ -1,9 +1,11 @@
 +++
 # accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
+title = "Scholarships and Awards"
+subtitle = ""
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -11,9 +13,6 @@ weight = 80  # Order that this section will appear.
   #   3 = Card
   #   4 = Citation (publication only)
  columns = "1"
-
-title = "Scholarships and Awards"
-subtitle = ""
 
 
 # Date format
@@ -139,6 +138,3 @@ date_format = "Jan 2006"
   description = "Honour Roll."
   
 +++
-
-# Scholarships and Awards
-
