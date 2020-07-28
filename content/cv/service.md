@@ -42,6 +42,11 @@ subtitle = ""
 
 ## Leadership
 
+**Site Coordinator**, Let's Talk Science (LTS) UTM | Sep 2020-present
+
+* Engage youth in STEM learning experiences
+* Organize programming and outreach, communicate with volunteers.
+
 **EEB Rep**, UTM Biology Graduate Student Society (BGSS) | Jun 2020-present
 
 * Represent and engage EEB graduate students in departmental events.
