@@ -49,7 +49,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fa"
   name = "Mandarin Chinese"
-  description = "Native speaker; sIntermediate reading and writing literacy."
+  description = "Native speaker; Intermediate reading and writing literacy."
 
 # Uncomment to use emoji icons.
 # [[feature]]
