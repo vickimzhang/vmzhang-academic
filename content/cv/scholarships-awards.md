@@ -43,7 +43,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2020-07-01"
   date_end = ""
-  description = "Awarded to supplement field biology research. Valued at $2500."
+  description = "Awarded to supplement field biology research. Valued at $2,500."
 
 [[item]]
   organization = "Sigma Xi Fund of Canada"
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2020-02-01"
   date_end = ""
-  description = "Awarded to partially fund field biology research. Valued at $1400."
+  description = "Awarded to partially fund field biology research. Valued at $1,400."
 
 [[item]]
   organization = "Koffler Scientific Reserve"
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "Awarded to partially fund field biology research. Valued at ~$5500."
+  description = "Awarded to partially fund field biology research. Valued at ~$5,500."
 
 [[item]]
   organization = "Koffler Scientific Reserve"
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2019-05-01"
   date_end = "2019-08-31"
-  description = "Awarded by KSR to fund an independent undergraduate summer research project. Valued at $6000."
+  description = "Awarded by KSR to fund an independent undergraduate summer research project. Valued at $6,000."
   
 [[item]]
   organization = "University College"
@@ -105,7 +105,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2018-07-01"
   date_end = "2020-07-01"
-  description = "Awarded by Indigo for an original essay. Valued at $3000."
+  description = "Awarded by Indigo for an original essay. Valued at $3,000."
 
 [[item]]
   organization = "BC Ministry of Education"
@@ -115,7 +115,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2015-06-01"
   date_end = ""
-  description = "Awarded for academic achievement in provincial examinations. Valued at $1250."
+  description = "Awarded for academic achievement in provincial examinations. Valued at $1,250."
 
 [[item]]
   organization = "New Westminster Secondary School"

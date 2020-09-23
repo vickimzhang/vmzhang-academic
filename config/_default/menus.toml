@@ -39,22 +39,28 @@
   weight = 30
 
 [[main]]
+  name = "LTS"
+  url = "outreach#lts"
+  parent = "outreach"
+  weight = 31
+
+[[main]]
   name = "CAGIS"
   url = "outreach#cagis"
   parent = "outreach"
-  weight = 31
+  weight = 32
 
 [[main]]
   name = "Side by Side"
   url = "outreach#sidebyside"
   parent = "outreach"
-  weight = 32
+  weight = 33
 
 [[main]]
   name = "KSR"
   url = "outreach#ksr"
   parent = "outreach"
-  weight = 33
+  weight = 34
 
 [[main]]
   name = "Journal"

@@ -9,7 +9,7 @@ slug: distance-running
 categories:
   - athletics
 
-tags: [extracurriculars, distance-running, 2020-Apr]
+tags: [extracurriculars, distance-running, 2020-Sept]
 
 featured: no
 image:
@@ -28,6 +28,10 @@ When I was 10, my elementary school teacher encouraged me to join our school’s
 ![I did my first [half marathon](http://www.torontowaterfrontmarathon.com/) in October, 2019. This one was a fun one, but it was painful.](featured.jpg)
 
 I typically run in the early mornings, which usually means running before the sun is even out during our cold Canadian winters, but also means chasing the sunrise during fall and spring. Each summer, I try to run in at least one race, picking the race based on timing and the cause. I track my runs with the [Nike Run App](https://www.nike.com/ca/nrc-app), and I am constantly building my [“Run” playlist](https://open.spotify.com/playlist/1NDVIqEN5BpWLTp6D3GlNI) to feature songs that are 170-180 BPM.
+
+**Next run: [RBC Race for the Kids](https://www.rbcraceforthekids.com/), October 17-18 (Virtual)**
+
+I'm running to support Sunnybrook's Family Navigation Project. You can donate to my [personal fundraiser here](https://www.rbcraceforthekids.com/fundraisers/vickizhang/sunnybrook).
 
 ### To run or to not run?
 
@@ -50,9 +54,9 @@ Official races:
 +===============+===============+====================+======================+
 | 5 km          | 27:19         | May 5, 2009        |- I was 12!           |
 +---------------+---------------+--------------------+----------------------+
-| 10 km         | 47:37         | May 12, 2019       |- easiest route  ever |
+| 10 km         | 47:37         | May 12, 2019       |- all downhill        |
 +---------------+---------------+--------------------+----------------------+
-| 21.1 km       | 2:02:42       | October 20, 2019   |- first ever half     |
+| 21.1 km       | 2:02:42       | October 20, 2019   |- first half          |
 +---------------+---------------+--------------------+----------------------+
 
 
@@ -61,9 +65,9 @@ Personal PRs (not part of official races):
 +---------------+---------------+--------------------+----------------------+
 | Distance      | PR            | Date               |Notes                 |
 +===============+===============+====================+======================+
-| 5 km          | 24:29         | May 5, 2009        |                      |
+| 5 km          | 24:24         | May 5, 2019        |                      |
 +---------------+---------------+--------------------+----------------------+
-| 10 km         | 51:09         | August 24, 2019    |                      |
+| 10 km         | 49:44         | September 19, 2020 |                      |
 +---------------+---------------+--------------------+----------------------+
 | 21.1 km       | 2:01:42       | October 20, 2019   |- practice half       |
 +---------------+---------------+--------------------+----------------------+

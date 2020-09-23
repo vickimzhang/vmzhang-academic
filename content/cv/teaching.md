@@ -27,13 +27,14 @@ subtitle = ""
 
 ## Teaching Assistantships 
 
+**Sessional Instructional Assistant, BIO205H5 (Ecology)**, UTM | Sep-Dec 2019, 2020
+
+* Teach two weekly laboratory sections.
+* Duties include: preparing and running both indoor and field practicals; marking assignments, midterm and final examinations; invigilating examinations; and meeting with the professor other teaching assistants on a weekly basis.
+
 **Teaching Assistant, BIO330 (Plant Ecology)**, UTM | Jan 2020-Apr 2020
 
 * Designed and taught two weekly discussion-based tutorial sections.
 * Duties included: preparing and running tutorials; assisting students with course material; marking assignments, midterm and final examinations; and meeting with the instructor and other teaching assistants on a weekly basis.
 * Affected by university closure due to COVID-19 pandemic.
 
-**Sessional Instructional Assistant, BIO205H5 (Ecology)**, UTM | Sep 2019-Dec 2019
-
-* Teach two weekly laboratory sections.
-* Duties include: preparing and running both indoor and field practicals; marking assignments, midterm and final examinations; invigilating examinations; and meeting with the professor other teaching assistants on a weekly basis.

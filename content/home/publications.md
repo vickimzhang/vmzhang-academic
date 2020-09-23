@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-In revision.
+Accepted to Ecology and Evolution.
