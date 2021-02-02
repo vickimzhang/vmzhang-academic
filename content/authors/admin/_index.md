@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master of Science student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a MSc student studying invasive species in the subarctic, and am passionate about science communication and outreach.
+bio: I am a PhD student studying invasive species in the subarctic, and am passionate about science communication and outreach.
 
 interests:
 - terrestrial invasion ecology in northern latitudes
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Master of Science
+  - course: Doctor of Science
     institution: University of Toronto Mississauga
     year: in progress
   - course: Honours Bachelor's of Science
