@@ -13,8 +13,9 @@ header:
   image: ""
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 I'm trying to write more. Disclaimer: somewhat rambly.
 
 Find posts by [category]({{< ref "/categories" >}}) or by [tags]({{< ref "/tags" >}}).
-{{% /alert %}}
+{{% /callout %}}
+

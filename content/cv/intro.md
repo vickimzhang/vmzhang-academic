@@ -16,9 +16,9 @@ title = "CV"
 subtitle = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 PDF and references available upon request.
-{{% /alert %}}
+{{% /callout %}}
 
 # Contents:
 

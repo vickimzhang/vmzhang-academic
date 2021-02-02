@@ -7,6 +7,7 @@ author: [Vicki M. Zhang]
 date: '2021-01-25'
 slug: superior-book-review
 
+
 categories:
   - MSc 
   - books
@@ -18,9 +19,9 @@ tags:
   - racism
   - book-review
 
-featured: no
+featured: yes
 image:
-  caption: "'Image credit: [**Hal Gatewood**](https://unsplash.com/photos/tZc3vjPCk-Q)'"
+  caption: ""
   focal_point: "smart"
   preview_only: true
 

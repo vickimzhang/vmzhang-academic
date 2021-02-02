@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 Filter by [publication type]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}
 
