@@ -71,9 +71,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Master’s student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra. Other current projects include improving RStats, data visualization and modelling knowledge, and developing mentorship and pedagogical skills in university-level science courses and research.
+I am a PhD student in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra. Other current projects include improving RStats, data visualization and modelling knowledge, and developing mentorship and pedagogical skills in university-level science courses and research.
 
-I completed my Bachelor of Science in the Department of Ecology and Evolutionary Biology at the University of Toronto. My undergraduate thesis work was supervised by [Locke Rowe](https://rowe.eeb.utoronto.ca/) and [David Punzalan](https://www.davidpunzalan.com/), where I investigated the distributions and range shifts of two ambush bug species, _Phymata americana_ and _P. pennsylvanica_.
+I completed my Honour's Bachelor of Science in the Department of Ecology and Evolutionary Biology at the University of Toronto. My undergraduate thesis work was supervised by [Locke Rowe](https://rowe.eeb.utoronto.ca/) and [David Punzalan](https://www.davidpunzalan.com/), where I investigated the distributions and range shifts of two ambush bug species, _Phymata americana_ and _P. pennsylvanica_.
 
 
 Apart from science, I do a lot of athletics, including [running]({{< ref "/post/distance-running/index.Rmd" >}}), paddling for the [Liquid Assets](https://www.liquidassetsdbt.com/) dragon boat team, and playing [table tennis]({{< ref "/post/tabletennis/index.Rmd" >}}). In my downtime, I also [read a lot](https://goodreads.com/vickithebookglutton).
