@@ -13,7 +13,7 @@ categories:
 tags:
   - R
   - blogdown
-  - msc
+  - academic
   - hugo
 
 featured: no

@@ -9,7 +9,7 @@ slug: superior-book-review
 
 
 categories:
-  - MSc 
+  - PhD 
   - books
 
 tags:

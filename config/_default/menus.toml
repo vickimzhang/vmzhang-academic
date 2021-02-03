@@ -15,8 +15,8 @@
   weight = 20
 
 [[main]]
-  name = "Master's Research"
-  url = "research#msc"
+  name = "PhD Research"
+  url = "research#phd"
   parent = "research"
   weight = 21
 
