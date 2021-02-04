@@ -11,8 +11,8 @@ categories:
   - PhD
   - conferences
   - undergrad research
-
-tags: [msc, projects, conferences, IALE, 2020-May]
+  
+tags: [grad, projects, conferences, IALE, 2020-May]
 
 featured: no
 image:

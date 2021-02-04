@@ -12,7 +12,8 @@ categories:
   - academia
 
 tags:
-  - msc
+  - grad
+  - grad
   - 2020-July
   - race
   - racism

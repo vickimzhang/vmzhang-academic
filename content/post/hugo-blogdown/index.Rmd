@@ -11,10 +11,11 @@ categories:
   - meta
 
 tags:
+  - grad
   - R
   - blogdown
-  - academic
   - hugo
+  - academic
 
 featured: no
 image:

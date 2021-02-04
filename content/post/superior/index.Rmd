@@ -9,11 +9,11 @@ slug: superior-book-review
 
 
 categories:
-  - PhD 
+  - PhD
   - books
 
 tags:
-  - msc
+  - grad
   - 2021-Jan
   - race
   - racism
