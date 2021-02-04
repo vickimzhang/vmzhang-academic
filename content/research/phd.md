@@ -1,7 +1,4 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
-
 widget = "blank" 
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
