@@ -11,8 +11,8 @@ title = "Talks"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  # Page type to display. E.g. post, event, or publication.
+  page_type = "event"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
