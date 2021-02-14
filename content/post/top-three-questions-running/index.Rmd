@@ -84,7 +84,7 @@ Try these runs out! A great place to start is [Nike Run Club](https://www.nike.c
 
 # Will running kill my gains?
 
-In short, *no*. Nothing can really "kill gains" (so don't worry about missing a workout, or gyms closing, or poor eating for a day).
+In short, **no**. Nothing can really "kill gains" (so don't worry about missing a workout, or gyms closing, or poor eating for a day).
 
 (If you're reading a popular science article about how one specific thing will kill all your gains, be skeptical.)
 
