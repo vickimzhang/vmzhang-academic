@@ -1,0 +1,118 @@
+---
+title: Top three questions I get about running
+subtitle: ''
+summary: I love running. I also participate in more strength-based sports (weight lifting and dragon boat), and have a lot of competitive teammates who are always trying to be stronger and/or faster. Because of this, I also get a lot of questions about running.
+projects:
+author: [Vicki M. Zhang]
+date: '2021-02-13'
+slug: top-three-questions-running
+
+categories:
+  - athletics
+  
+tags:
+  - extracurriculars
+  - distance-running
+  - 2021-Feb
+
+featured: yes
+image:
+  caption: "'Image credit: [**Bruno Nascimento**](https://unsplash.com/photos/PHIgYUGQPvU)'"
+  focal_point: "smart"
+  preview_only: true
+
+
+links:
+  - icon_pack: fab
+    name: Originally documented on Notion
+    url: 'https://www.notion.so/vmzhang/Top-3-questions-I-get-about-running-4b4e19ddec08473f8efdf30200033e2e'
+
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+
+```{r include = FALSE}
+knitr::opts_chunk$set(eval = FALSE, echo = FALSE, collapse = TRUE, comment = NA, tidy = FALSE)
+```
+
+
+I love running. It's one of my favourite cardio exercises and also a form of meditation for me. Once I hit a comfortable stride, I feel like I could go on forever. The runner's high is real.
+
+I also participate in more strength-based sports (weight lifting and dragon boat), and have a lot of competitive teammates who are always trying to be stronger and/or faster. Because of this, I also get a lot of questions about running. In no particular order, I'll be answering them here.
+
+*Disclaimer: I am not the be-all end-all running guru. Although I tried to back up some of these answers with literature or industry professionals, know that development in sport science is an iterative process, and that some of the results from studies may change in the future. Make sure that you are listening to your own body, as everyone is different. Please also consider consulting a doctor, running coach, physiotherapist, or any other sport professionals if you require further medical attention or have more personal questions.*
+
+# How do I trend faster/run for longer?
+
+Everyone wants to be faster, whether that's a goal to crush a personal record, or to place on the podium for a race. Instead of talking about the science behind running (e.g., V̇O₂ max, lactic acid production, heart rate, biomechanics, etc.), I'm going to focus instead on what you can **do** to improve your pace or mileage.
+
+## Warm-up with dynamic stretches
+
+Research has shown that adequate time to warm-up your body leads to [improved performance](https://journals.lww.com/nsca-jscr/Fulltext/2010/01000/Effects_of_Warming_up_on_Physical_Performance__A.21.aspx?casa_token=45-7V3YnHYcAAAAA:PR_CloZWD156qr980Qc7BxkadD4ajlOeJY0BxkUjIb1urK0mdwQ1TXjNKQ6bkgA2mab6-sVg7lCAWb44gKIEjSI), and evidence also suggests that it may decrease the [risk of injury](https://www.sciencedirect.com/science/article/pii/S144024400600051X?casa_token=yI7V99aEtC8AAAAA:UyholKRfIA_zlYDTnNk5Cz-kwBfxfTpfExW0QpIKIqe0Uxe_92v3i8575g6x9DHLaj0Y7fMbnA). Prior to exercise, dynamic stretching as a warm-up (as opposed to passive stretching) has been shown to [facilitate](https://link.springer.com/article/10.1007/s00421-011-1879-2#Sec10) [performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273886/), as you are introducing your body to the motions of the exercise.
+
+Specifically, dynamic stretching implements active movements of your muscles in a full range. In order to accustom your body to the motions involved in running, try some of these dynamic stretches before you hit the road:
+
+- leg swings
+    - [lateral](https://www.youtube.com/watch?v=ZNpRO--nSN8) (for abductor and adductors)
+    - [forward](https://www.youtube.com/watch?v=25ET51u9oAc) (for hamstring and hip flexor)
+- glute activation
+    - [lateral lunge](https://www.youtube.com/watch?v=J1JwEN32nCQ)
+    - [reverse lunge and twist](https://www.youtube.com/watch?v=LrIE5onzj68)
+- [controlled articular rotations (CARs)](https://www.youtube.com/watch?v=G494iVXq3lk)
+- bodyweight exercises
+    - glute kicks
+    - [A-skips](https://www.youtube.com/watch?v=yvFZECOpbEk)
+    - jumping jacks
+
+Spending 5-10 minutes on a circuit of dynamic stretches will pay-off, both in your current run as well as your recovery. 
+
+## Do a running workout
+
+It's difficult to stay motivated or improve your running without a plan. Although you don't need to follow a strict training plan,  just switching up the type of run you're going on may result in substantial improvement. 
+
+Start with a base run, which is a moderate-length run at a natural pace that feels comfortable for you. When people "go for a run", usually they are just doing a base run. Keep a moderate tempo throughout and don't start too fast; if you do these frequently enough, can be foundational for your running.
+
+Then, surprise your body with various speeds. Intervals are a great way challenge yourself by alternating short bursts of intense efforts and recovery periods. For the fast intervals, try to maintain a constant speed. For example, alternate 60 seconds of fast running at your 1K pace and 60 seconds of recovery running at a slow job (but try not to walk).
+
+To be even more surprised, try fartleks (Sweden for "speed play"), which sound just as funny as they are fun to run. Fartleks are intervals except the distance and duration are constantly changing. You never know how long or how short the fast interval is, so your body has to constantly adapt to different speeds.
+
+Finally, hill runs are a great mix of both cardio and strength training. Running on an incline increases resistance, thus building muscle strength. If you're limited by the number of hills, a simple hill run workout is to scale the hill and timing your laps. You can also map out a running route that incorporate different incline grades to sprint up.
+
+Try these runs out! A great place to start is [Nike Run Club](https://www.nike.com/ca/nrc-app), an app with a large repertoire of workouts and customizable training plans.
+
+# Will running kill my gains?
+
+In short, *no*. Nothing can really "kill gains" (so don't worry about missing a workout, or gyms closing, or poor eating for a day).
+
+(If you're reading a popular science article about how one specific thing will kill all your gains, be skeptical.)
+
+However, if you do a 15K one day and then do heavy squats the next day, don't expect optimal results. Long distance running can also lead to muscle protein breakdown, requiring a prolonged [period for recovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792989/). Furthermore, resistance training can impede optimal muscle contraction needed for running.
+
+The good news is that there are ways to optimize your training so that your cardio training and strength training [don't interfere](https://www.google.com/search?q=aphrodite+project&rlz=1C5CHFA_enCA932CA932&oq=aphrodite+project&aqs=chrome..69i57j0i67i433j0i67l2j0i131i433j0j0i131i433l2.2532j0j1&sourceid=chrome&ie=UTF-8) with each other. Additionally, the two can complement each other: strength and resistance training will improve your [running economy](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-2007-964849), and running can also build lower body and slow-twitch muscle, improve stamina, and reduce the likelihood of injury.
+
+## Optimizing strength training and running
+
+You may already be familiar with [delayed-onset muscle soreness (DOMS)](https://link.springer.com/article/10.2165/00007256-200333020-00005?sponsor=3398153&error=cookies_not_supported&code=70d9c84d-e2a6-43d4-a7c7-178d50f7ff98#Abs1), in which the targeted muscles get really sore 24-72 hours after a workout. Personally, after a heavy weightlifting day, I usually have very little strength and a limited range of motion because of DOMs. Torturing my sore muscles further by going on a long run is not ideal, but light exercise can be an effective treatment for DOMS.
+
+So, you just hit a heavy weightlifting day - when is the most optimal time to run?  
+
+- 1 day after strength day: low-to-moderate intensity cardio (think slow jog, or walk). You won't be gaining anything if you do intensive training days and running days back to back - if anything, you're more [prone to injury](https://journals.lww.com/nsca-jscr/Fulltext/2016/03000/Specific_Training_Effects_of_Concurrent_Aerobic.10.aspx)).
+- 2 days after strength day: moderate-to-high intensity (think hill runs, intervals, speed runs). **It may take 24 hours or more to recover from DOMS after leg day**. The more recovery time you give your lower body, the more effective your cardio and strength training will be.
+
+If you have strength training and running scheduled for one day, aim for the run to be at a low-to-moderate intensity. To build muscle, run first as part of your warm-up after dynamic stretching, but don't run for an extended distance. To build endurance, do a short run after your workout as a finisher. There's no "right" order, as it depends on your training goal (and the final say is still out on this one).
+
+As a rule of thumb, the higher the intensity of strength and resistance training, the [more recovery](https://link.springer.com/article/10.1007%2Fs40279-019-01072-2#Sec17) is needed before high intensity running.
+
+# How do you stay motivated?
+
+Running is as much a mental game as a physical activity, and it requires patience and perseverance. That being said, everyone has it in them to be a runner. It doesn't matter if your weekly mileage is 5 km or 50 km; what matters is that you hit the road.
+
+I plan my runs out meticulously. I have a designated [playlist](https://music.apple.com/ca/playlist/run/pl.u-xlyNEpVtky5l59l) that only plays songs or remixes that are 176-180 beats per minute, so that it matches my running cadence. I schedule running into my calendar after checking the weather. I decide on a route days in advance - sometimes I do my usual route to see if I'm trending faster, and other times I explore new neighbourhoods in suburbia-land to hit specific segments, hills, parks, or trails. I establish an eating and drinking schedule (no dairy but a carb-filled meal 3 hours before). Every detail is worked out.
+
+All this is to say that I have found a pattern that works for me, and after putting in all that work of planning my run, **I better go out and get it done**. Typically, all this planning culminates in an extremely enjoyable run, filled with runners-high serotonin and ending with kudos from [Liquid Strava](https://www.strava.com/clubs/liquidassets). However, sometimes uncomfortable runs (cramping, low motivation, runner's stomach) happens, and that's okay! It just means that the next run will definitely be an improvement.
+
+Everyone is different, so what works for me may not work for you. Find that milestone you want to hit, whether it's non-stop running for 30 minutes, beating your 1K personal record, or doing your first 10K, and use that to motivate you. Or, if you're really competitive, find a running friend and try to beat their weekly distance.
+
+You are all runners!
