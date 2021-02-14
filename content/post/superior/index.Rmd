@@ -18,6 +18,7 @@ tags:
   - race
   - racism
   - book-review
+  - 2021
 
 featured: yes
 image:

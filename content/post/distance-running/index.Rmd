@@ -9,7 +9,7 @@ slug: distance-running
 categories:
   - athletics
 
-tags: [extracurriculars, distance-running, 2020-Sept]
+tags: [extracurriculars, distance-running, 2020-Sept, 2020]
 
 featured: no
 image:

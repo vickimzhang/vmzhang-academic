@@ -16,6 +16,7 @@ tags:
   - blogdown
   - hugo
   - academic
+  - 2020
 
 featured: no
 image:

@@ -17,6 +17,7 @@ tags:
   - 2020-July
   - race
   - racism
+  - 2020
 
 featured: yes
 image:

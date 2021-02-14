@@ -9,7 +9,7 @@ slug: tabletennis
 categories:
   - athletics
 
-tags: [extracurriculars, table-tennis, 2020-Feb]
+tags: [extracurriculars, table-tennis, 2020-Feb, 2020]
 
 featured: no
 image:
