@@ -70,13 +70,13 @@ Spending 5-10 minutes on a circuit of dynamic stretches will pay-off, both in yo
 
 ## Do a running workout
 
-It's difficult to stay motivated or improve your running without a plan. Although you don't need to follow a strict training plan,  just switching up the type of run you're going on may result in substantial improvement. 
+It's difficult to stay motivated or improve your running without a plan. Although you don't need to follow a strict training plan, just switching up the type of run you're going on may result in substantial improvement. 
 
 Start with a base run, which is a moderate-length run at a natural pace that feels comfortable for you. When people "go for a run", usually they are just doing a base run. Keep a moderate tempo throughout and don't start too fast; if you do these frequently enough, can be foundational for your running.
 
 Then, surprise your body with various speeds. Intervals are a great way challenge yourself by alternating short bursts of intense efforts and recovery periods. For the fast intervals, try to maintain a constant speed. For example, alternate 60 seconds of fast running at your 1K pace and 60 seconds of recovery running at a slow job (but try not to walk).
 
-To be even more surprised, try fartleks (Sweden for "speed play"), which sound just as funny as they are fun to run. Fartleks are intervals except the distance and duration are constantly changing. You never know how long or how short the fast interval is, so your body has to constantly adapt to different speeds.
+To be even more surprised, try fartleks (Swedish for "speed play"), which sound just as funny as they are fun to run. Fartleks are intervals except the distance and duration are constantly changing. You never know how long or how short the fast interval is, so your body has to constantly adapt to different speeds.
 
 Finally, hill runs are a great mix of both cardio and strength training. Running on an incline increases resistance, thus building muscle strength. If you're limited by the number of hills, a simple hill run workout is to scale the hill and timing your laps. You can also map out a running route that incorporate different incline grades to sprint up.
 
@@ -96,7 +96,7 @@ The good news is that there are ways to optimize your training so that your card
 
 You may already be familiar with [delayed-onset muscle soreness (DOMS)](https://link.springer.com/article/10.2165/00007256-200333020-00005?sponsor=3398153&error=cookies_not_supported&code=70d9c84d-e2a6-43d4-a7c7-178d50f7ff98#Abs1), in which the targeted muscles get really sore 24-72 hours after a workout. Personally, after a heavy weightlifting day, I usually have very little strength and a limited range of motion because of DOMs. Torturing my sore muscles further by going on a long run is not ideal, but light exercise can be an effective treatment for DOMS.
 
-So, you just hit a heavy weightlifting day - when is the most optimal time to run?  
+So, you just hit a heavy weightlifting day - when is the most optimal time to run?
 
 - 1 day after strength day: low-to-moderate intensity cardio (think slow jog, or walk). You won't be gaining anything if you do intensive training days and running days back to back - if anything, you're more [prone to injury](https://journals.lww.com/nsca-jscr/Fulltext/2016/03000/Specific_Training_Effects_of_Concurrent_Aerobic.10.aspx)).
 - 2 days after strength day: moderate-to-high intensity (think hill runs, intervals, speed runs). **It may take 24 hours or more to recover from DOMS after leg day**. The more recovery time you give your lower body, the more effective your cardio and strength training will be.

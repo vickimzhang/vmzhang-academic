@@ -1,5 +1,7 @@
 ---
-title: Climate change has different predicted effects on the range shifts of two hybridising ambush bug (Phymata) species.
+title: Climate change has different predicted effects on the range shifts of two hybridising ambush bug (Phymata) species
+
+slug: "iale-ugphymata"
 
 event: North America Region Virtual Meeting
 

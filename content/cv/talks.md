@@ -1,6 +1,6 @@
 +++
 # A Talks section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent talks from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -11,8 +11,8 @@ title = "Talks"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  # Page type to display. E.g. post, event, or publication.
+  page_type = "event"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0

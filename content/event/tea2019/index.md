@@ -1,5 +1,8 @@
 ---
-title: Hot Models - projecting future climate-driven distributions of two ambush bug species, Phymata americana and Phymata pennsylvanica.
+title: Hot Models - projecting future climate-driven distributions of two ambush bug species, Phymata americana and Phymata pennsylvanica
+
+slug: "tea-ugphymata"
+
 event: Student Symposium, Toronto
 
 location: Toronto Entomologist Association

@@ -20,6 +20,16 @@ subtitle = ""
 
 ## Guest Lectures
 
+**Guest Lecturer, BIO330 (Plant Ecology)**, UTM | 24 Mar 2021
+
+* Designed and delivered a 50-minute lecture on invasions and plant enemies at range margins.
+* Virtual.
+
+**Guest Lecturer, BIO318/328 (Animal Behaviour)**, UTM | 1 Mar 2021
+
+* Designed and delivered a 50-minute lecture focused on range shifts and hybridisation.
+* Virtual.
+
 **Guest Lecturer, BIO330 (Plant Ecology)**, UTM | 25 Mar 2020
 
 * Designed and delivered a 50-minute electronic guest lecture focused on range limits.
@@ -27,15 +37,21 @@ subtitle = ""
 
 ## Teaching Assistantships 
 
+**Teaching Assistant, BIO330 (Plant Ecology)**, UTM | Jan 2021-Apr 2021
+
+* Designed and taught two weekly discussion-based tutorial sections.
+* Duties included: preparing and running tutorials; moderating lectures; marking assignments and final examinations; and meeting with the instructor and other teaching assistants on a weekly basis.
+* Virtual
+
 **Teaching Assistant and Administrative Assistant, BIO205H5 (Ecology)**, UTM | Sep-Dec 2020
 
-* Run two weekly help sections.
+* Run two weekly help sections virtually.
 * Perform administrative tasks for class of 350+ students.
 
 **Teaching Assistant, BIO330 (Plant Ecology)**, UTM | Jan 2020-Apr 2020
 
 * Designed and taught two weekly discussion-based tutorial sections.
-* Duties included: preparing and running tutorials; assisting students with course material; marking assignments, midterm and final examinations; and meeting with the instructor and other teaching assistants on a weekly basis.
+* Duties included: preparing and running tutorials; marking assignments and final examinations; assisting students with course material; and meeting with the instructor and other teaching assistants on a weekly basis.
 * Affected by university closure due to COVID-19 pandemic.
 
 **Sessional Instructional Assistant, BIO205H5 (Ecology)**, UTM | Sep-Dec 2019
