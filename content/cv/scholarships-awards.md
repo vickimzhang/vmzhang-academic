@@ -26,6 +26,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Natural Sciences and Engineering Research Council of Canada"
+#  organization_url = ""
+  title = "Canada Graduate Scholarships – Master's"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = "2022-08-31"
+  description = "Valued at $17,500."
+
+
+[[item]]
   organization = "Province of Ontario"
 #  organization_url = ""
   title = "Ontario Graduate Scholarship"
