@@ -116,6 +116,11 @@ subtitle = ""
 
 ## Volunteer
 
+**Graduate Core Volunteer & Moderator**, Atwood Colloquium in Ecology and Evolution | 17-18 Apr 2021
+
+* Assisted in setting up, organizing, coordinating, and moderating a virtual colloquium
+
+
 **Undergraduate Volunteer**, Atwood Colloquium in Ecology and Evolution | Apr 2018
 
 * Assisted in the success of the colloquium as part of the set up and clean up committee.
