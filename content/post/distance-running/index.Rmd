@@ -3,7 +3,7 @@ title: To run or not to run?
 subtitle: ''
 summary: It all started when I joined my elementary school’s track-and-field team and now I am running multiple long-distance races each year. 
 author: [Vicki M. Zhang]
-date: '2021-04-01'
+date: '2020-04-01'
 slug: distance-running
 
 categories:
@@ -29,9 +29,9 @@ When I was 10, my elementary school teacher encouraged me to join our school’s
 
 I typically run in the early mornings, which usually means running before the sun is even out during our cold Canadian winters, but also means chasing the sunrise during fall and spring. Each summer, I try to run in at least one race, picking the race based on timing and the cause. I track my runs with the [Nike Run App](https://www.nike.com/ca/nrc-app), and I am constantly building my [“Run” playlist](https://open.spotify.com/playlist/1NDVIqEN5BpWLTp6D3GlNI) to feature songs that are 170-180 BPM.
 
-**Next run: [New York Road Runners Volvo Cars Brooklyn Half Marathon](https://www.nyrr.org/pages/2021-Virtual-Volvo-Cars-Brooklyn-Half-Guide), May 15-23, 2021 (Virtual)**
+**Next run: [Scotiabank Toronto Waterfront Marathon](http://www.torontowaterfrontmarathon.com/), October 1-31, 2021 (Virtual)**
 
-I'm running to support Sunnybrook's Family Navigation Project. You can donate to my [personal fundraiser here](https://www.rbcraceforthekids.com/fundraisers/vickizhang/sunnybrook).
+
 
 ### To run or to not run?
 
@@ -45,32 +45,32 @@ If you’re looking to lose weight, get shredded, and can’t commit to hours of
 
 ### My stats
 
-These are just some runs that I'm especially proud of. More stats on [Strava](https://www.strava.com/athletes/vickiz).
+These are just some runs that I'm especially proud of. More stats on [Strava](https://www.strava.com/athletes/vickiz) and race times on [Athlinks](https://www.athlinks.com/athletes/461374641).
 
 Official races:
 
-+---------------+---------------+--------------------+----------------------+
-| Distance      | PR            | Date               |Notes                 |
-+===============+===============+====================+======================+
-| 5 km          | 27:19         | May 5, 2009        |- I was 12!           |
-+---------------+---------------+--------------------+----------------------+
-| 10 km         | 47:37         | May 12, 2019       |- all downhill        |
-+---------------+---------------+--------------------+----------------------+
-| 21.1 km       | 2:02:42       | October 20, 2019   |- first half          |
-+---------------+---------------+--------------------+----------------------+
++---------------+---------------+--------------------+---------------------------------------+
+| Distance      | PR            | Date               |Race                                   |
++===============+===============+====================+=======================================+
+| 5 km          | 27:19         | May 5, 2009        |Vancouver Science Fair Fun Run         |
++---------------+---------------+--------------------+---------------------------------------+
+| 10 km         | 47:37         | May 12, 2019       |Sporting Life 10K                      |
++---------------+---------------+--------------------+---------------------------------------+
+| 21.1 km       | 2:02:42       | October 20, 2019   |Scotiabank Waterfront Toronto Marathon |
++---------------+---------------+--------------------+---------------------------------------+
 
 
 Personal PRs (not part of official races):
 
-+---------------+---------------+--------------------+----------------------+
-| Distance      | PR            | Date               |Notes                 |
-+===============+===============+====================+======================+
-| 5 km          | 23:48         | September 23, 2020 |                      |
-+---------------+---------------+--------------------+----------------------+
-| 10 km         | 48:20         | October 5, 2020    |                      |
-+---------------+---------------+--------------------+----------------------+
-| 21.1 km       | 2:01:42       | October 20, 2019   |- practice half       |
-+---------------+---------------+--------------------+----------------------+
++---------------+---------------+--------------------+
+| Distance      | PR            | Date               |
++===============+===============+====================+
+| 5 km          | 23:34         | May 6, 2021        |
++---------------+---------------+--------------------+
+| 10 km         | 48:20         | October 5, 2020    |
++---------------+---------------+--------------------+
+| 21.1 km       | 1:59:46       | May 20, 2021       |
++---------------+---------------+--------------------+
 
 
 
