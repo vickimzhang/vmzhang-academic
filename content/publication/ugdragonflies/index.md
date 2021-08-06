@@ -75,4 +75,4 @@ projects:
 # slides:
 ---
 
-In prep.
+Submitted to Limnology and Oceanography Letters. In review.
