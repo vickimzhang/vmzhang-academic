@@ -7,7 +7,7 @@ event: North America Region Virtual Meeting
 
 location: Canadian Society for Ecology and Evolution (CSEE) Annual Meeting
 
-summary:
+summary: Full-length talk. Canadian Society for Ecology and Evolution (CSEE)
 
 abstract: "Invasions by non-native plants are a widespread and serious problem throughout temperate regions, but boreal and tundra ecosystems are relatively less invaded. Northern range limits of invaders may be set by environmental or biotic barriers, resulting in poorer plant performance, but these barriers are not well understood. Churchill, Manitoba (58.8°) represents a unique site for northern invasion research, where over a hundred non-native plants have been recorded. Although many have persisted for decades in human-disturbed areas, almost none have spread into nearby boreal forests and tundra ecosystems. Reasons these non-natives have failed to spread remain unclear.
 <p>&nbsp;</p>
