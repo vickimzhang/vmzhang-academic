@@ -20,7 +20,7 @@ all_day: true
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: [admin]
-tags: [ug, ugprojects]
+tags: [phd, ug, ugprojects]
 
 # Is this a featured talk? (true/false)
 featured: false

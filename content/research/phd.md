@@ -44,9 +44,9 @@ subtitle = ""
 +++
 
 
-I started my graduate research in January 2020 with [Peter Kotanen](https://www.utm.utoronto.ca/~w3pkota/), and transferred from a Master of Science degree to a Doctor of Science in February 2021. My graduate work investigates  the invasion risk of non-native species in the subarctic. My fieldwork takes place in Churchill, Manitoba (the polar bear capital of the world), where I study why non-native plants invade some areas but not others. 
+I started my graduate research in January 2020 with [Peter Kotanen](https://www.utm.utoronto.ca/~w3pkota/), and transferred from a Master of Science degree to a Doctor of Science in February 2021. My graduate work investigates  the invasion risk of non-native species in the subarctic. My fieldwork takes place in Churchill, Manitoba (the polar bear capital of the world), where I study the risk of non-native plants invasion in the subarctic. 
 
 This research is becoming a crucial field of research, as pristine northern ecosystems are extremely vulnerable to climate change, which can increase the prevalence of invasive species.
 
 
-In addition to research, I will also be TAing "Arctic Field Ecology" (BIO483) offered Summer 2022 in Churchill, Manitoba. More info [here](https://www.utm.utoronto.ca/~w3pkota/arctic_field_course_ad.pdf).
+In addition to research, I will also be TAing "Arctic Field Ecology" (BIO483) offered Summer 2022 in Churchill, Manitoba.

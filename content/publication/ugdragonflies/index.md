@@ -35,7 +35,7 @@ tags:
 - ugprojects
 
 
-featured: false
+featured: true
 
 # links:
 # - name: Article Link
