@@ -8,9 +8,8 @@ slug: churchill-aug8
 
 categories:
   - PhD
-  - 2021
 
-tags: [2021, 2021-Aug, Churchill]
+tags: [2021, 2021-Aug, Churchill, fieldwork]
 
 featured: yes
 image:

@@ -3,9 +3,9 @@ title: Soil feedbacks in northern ecosystems invaded by non-native plants
 
 slug: "csee-psf"
 
-event: North America Region Virtual Meeting
+event: CSEE-SCEE Annual Meeting
 
-location: Canadian Society for Ecology and Evolution (CSEE) Annual Meeting
+location: Vancouver & Virtual
 
 summary: Full-length talk. Canadian Society for Ecology and Evolution (CSEE)
 
