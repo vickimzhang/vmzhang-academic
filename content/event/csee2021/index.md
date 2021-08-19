@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [admin]
+authors: [admin, Peter M. Kotanen]
 tags: [phd, psf]
 
 # Is this a featured talk? (true/false)
