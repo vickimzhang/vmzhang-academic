@@ -54,7 +54,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2020-07-01"
   date_end = ""
-  description = "Awarded to supplement field biology research. Valued at $2,500."
+  description = "Awarded to supplement field biology research. Valued at $3,500."
 
 [[item]]
   organization = "Sigma Xi Fund of Canada"

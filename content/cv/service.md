@@ -20,7 +20,7 @@ subtitle = ""
 
 ## Mentorship 
 
-**Graduate Mentor**, Grad Connect Mentorship Program | Oct 2019-Mar 2020
+**Graduate Mentor**, Grad Connect Mentorship Program | Oct 2019-present
 
 * Mentor a senior undergraduate student in the UTM Biology department.
 * Meet bimonthly to discuss graduate school, experiences, and hurdles in school or professional employment.
