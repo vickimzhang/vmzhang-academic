@@ -75,4 +75,4 @@ projects:
 # slides:
 ---
 
-Submitted to Limnology and Oceanography Letters. In review.
+Submitted to Environmental Entomology. In review.
