@@ -37,6 +37,17 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Churchill Northern Studies Centre"
+#  organization_url = ""
+  title = "Northern Research Fund"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2021-08-01"
+  date_end = "2021-08-31"
+  description = "Awarded to fund resources for field research. Valued at $1,137."
+  
+
+[[item]]
   organization = "Province of Ontario"
 #  organization_url = ""
   title = "Ontario Graduate Scholarship"
@@ -45,6 +56,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = "2021-08-31"
   description = "Valued at $15,000."
+  
 
 [[item]]
   organization = "Government of Canada"
