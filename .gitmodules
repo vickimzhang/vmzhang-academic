@@ -2,6 +2,6 @@
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "vmzhang.github.io"]
-	path = https://vmzhang.github.io
+	path = vmzhang.github.io
 	url = https://github.com/vmzhang/vmzhang.github.io
 	branch = master
