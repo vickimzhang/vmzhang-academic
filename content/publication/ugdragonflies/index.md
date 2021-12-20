@@ -1,13 +1,13 @@
 ---
 title: Developmental and behavioural responses to road salt pollution across life stages in a semi-aquatic insect
 authors:
-- Rosalind L. Murray
+
 - admin
 - Rosemary Martin
-- Shannon McCauley
-- Locke Rowe
+- Rosalind L. Murray
 
-date: 2022-5-01
+
+date: 2022-10-15
 
 doi: ""
 
@@ -54,7 +54,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
-#   caption: 'Image credit: [**David Punzalan**](https://http://www.davidpunzalan.com/)'
+#   caption: 'Image credit: [**name**]()'
 #   focal_point: ""
 #   preview_only: false
 
