@@ -45,22 +45,28 @@
   weight = 31
 
 [[main]]
+  name = "UofT Coders"
+  url = "outreach#uoftcoders"
+  parent = "outreach"
+  weight = 32
+
+[[main]]
   name = "CAGIS"
   url = "outreach#cagis"
   parent = "outreach"
-  weight = 32
+  weight = 33
 
 [[main]]
   name = "Side by Side"
   url = "outreach#sidebyside"
   parent = "outreach"
-  weight = 33
+  weight = 34
 
 [[main]]
   name = "KSR"
   url = "outreach#ksr"
   parent = "outreach"
-  weight = 34
+  weight = 35
 
 [[main]]
   name = "Journal"
