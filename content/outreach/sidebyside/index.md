@@ -10,12 +10,13 @@ image:
   focal_point: Smart
 
 tags:
-  - msc
+  - phd
   - outreach
+  - mentorship
   - volunteer
 
 categories:
-  - MSc
+  - PhD
   - scientific-service
 ---
 

@@ -3,19 +3,19 @@
 title: Canadian Association for Girls in Science
 summary: ''
 date: 2020-05-21
-weight: 20
+weight: 21
 
 image:
   caption: CAGIS logo
   focal_point: Smart
 
 tags:
-  - msc
+  - phd
   - outreach
   - volunteer
 
 categories:
-  - MSc
+  - PhD
   - scientific-service
 ---
 
