@@ -49,4 +49,4 @@ I started my graduate research in January 2020 with [Peter Kotanen](https://www.
 This research is becoming a crucial field of research, as pristine northern ecosystems are extremely vulnerable to climate change, which can increase the prevalence of invasive species.
 
 
-In addition to research, I will also be TAing "Arctic Field Ecology" (BIO483) offered Summer 2022 in Churchill, Manitoba.
+In addition to research, I will also be TAing "Arctic Field Ecology" (BIO332) offered Summer 2022 in Churchill, Manitoba. This field course will run from 27 July - 10 August 2022, with a focus on arctic and subarctic ecology. For more info, check out the [ad](https://www.utm.utoronto.ca/~w3pkota/arctic_field_course_ad_2022.pdf), slides from the recent [info session](https://www.utm.utoronto.ca/~w3pkota/info_session.pdf), and the [enrolment information](https://www.utm.utoronto.ca/~w3pkota/registration.pdf).
