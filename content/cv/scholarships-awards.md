@@ -26,6 +26,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Government of Canada"
+#  organization_url = ""
+  title = "Northern Scientific Training Program"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2022-06-02"
+  date_end = ""
+  description = "Awarded to supplement field biology research in the 2022 field season. Valued at $4,600."
+
+[[item]]
   organization = "Natural Sciences and Engineering Research Council of Canada"
 #  organization_url = ""
   title = "Canada Graduate Scholarships – Master's"
@@ -65,8 +75,8 @@ date_format = "Jan 2006"
 #  url = ""
 #  certificate_url = ""
   date_start = "2020-07-01"
-  date_end = ""
-  description = "Awarded to supplement field biology research. Valued at $3,500."
+  date_end = "2021-08-31"
+  description = "Awarded to supplement field biology research (carried forward into 2021 field season, as the 2022 field season was cancelled due to COVID-19). Valued at $3,500."
 
 [[item]]
   organization = "Sigma Xi Fund of Canada"
