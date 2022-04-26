@@ -113,10 +113,13 @@ subtitle = ""
 * Invited.
 * Presented my undergraduate research and academic experience within department to undergraduate students.
 
-
 ## Volunteer
 
-**Graduate Core Volunteer & Moderator**, Atwood Colloquium in Ecology and Evolution | 17-18 Apr 2021
+**Co-Chair**, Atwood Colloquium in Ecology and Evolution (Hybrid) | 21-22 Apr 2022
+
+* Organized the annual departmental colloquium, coordinated and delegated tasks among volunteers, communicated with invited speakers, created schedules, which included sessions, plenaries, and other events
+
+**Graduate Core Volunteer & Moderator**, Atwood Colloquium in Ecology and Evolution (Virtual) | 17-18 Apr 2021
 
 * Assisted in setting up, organizing, coordinating, and moderating a virtual colloquium
 

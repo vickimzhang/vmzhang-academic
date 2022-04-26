@@ -20,6 +20,15 @@ subtitle = ""
 
 ## Guest Lectures
 
+**Guest Lecturer, BIO330 (Plant Ecology)**, UTM | 23 Mar 2022
+
+* Delivered a 50-minute lecture on invasions and plant enemies at range margins.
+
+**Guest Lecturer, BIO318/328 (Animal Behaviour)**, UTM | 7 Feb 2022
+
+* Delivered a 50-minute lecture focused on range shifts and hybridisation.
+* Virtual
+
 **Guest Lecturer, BIO330 (Plant Ecology)**, UTM | 24 Mar 2021
 
 * Designed and delivered a 50-minute lecture on invasions and plant enemies at range margins.
