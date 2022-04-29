@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Accessibility Services"
   date_start = "2021-12-01"
-  date_end = "present"
+  date_end = ""
   description = """
   * provide students with the best possible environment in which to write examinations during the final exam period.
   * enforce exam rules and regulations with authority, and ensuring exams run smoothly.
