@@ -25,8 +25,6 @@ In order to investigate this, we used dragonflies as a study organism. Dragonfli
 
 I exposed dragonfly nymphs at multiple life stages to four different salinity levels: **control** (no salt added), **low** and **moderate** salinity (below the experimentally-derived lethal threshold), and **high** salinity (above the lethal threshold). The data collected will be used to analyze the effects of salinity exposure on growth rate, survival and metamorphosis of the dragonfly nymph.
 
-### **Current update**
-I am currently working on data analyses and writing.
 
 ### **Research at KSR**
 Funding was provided by the KSR undergraduate student research award. Every year, many graduate and undergraduate students from multiple departments conduct field research at KSR. Check out [KSR on Twitter](https://twitter.com/ksr_jokershill) for updates on research updates and outreach events!
