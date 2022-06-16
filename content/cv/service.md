@@ -47,12 +47,12 @@ subtitle = ""
 * Engage youth in STEM learning experiences
 * Organize programming and outreach, communicate with volunteers.
 
-**EEB Rep**, UTM Biology Graduate Student Society (BGSS) | Jun 2020-present
+**EEB Rep**, UTM Biology Graduate Student Society (BGSS) | Jun 2020-May 2022
 
 * Represent and engage EEB graduate students in departmental events.
 * Contribute to event planning and execution.
 
-**UTM Rep**, EEB Graduate Student Association (EGSA) | Jun 2020-present
+**UTM Rep**, EEB Graduate Student Association (EGSA) | Jun 2020-May 2021
 
 * Represent the EEB graduate students based at UTM and convey updates and information between campuses.
 
@@ -127,6 +127,7 @@ subtitle = ""
 **Undergraduate Volunteer**, Atwood Colloquium in Ecology and Evolution | Apr 2018
 
 * Assisted in the success of the colloquium as part of the set up and clean up committee.
+
 
 **Volunteer**, Toronto Undergraduate Linguistic Conference (TULCON) | Mar 2018
 
