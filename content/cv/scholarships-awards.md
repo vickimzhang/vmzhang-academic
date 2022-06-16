@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2023-01-01"
   date_end = "2025-12-31"
-  description = "Valued at $17,500."
+  description = "Valued at $63,000."
 
 [[item]]
   organization = "Government of Canada"
