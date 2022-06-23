@@ -15,7 +15,7 @@ abstract: "Non-native plant invasions are relatively uncommon in subarctic zones
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-05-16"
 # date_end: "2022-05-16"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
