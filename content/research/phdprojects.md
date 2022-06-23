@@ -1,5 +1,5 @@
 +++
-# An MSc. Research section created with the Portfolio widget.
+# A PhD Research section created with the Portfolio widget.
 widget = "portfolio" 
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false

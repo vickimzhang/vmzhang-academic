@@ -6,9 +6,9 @@ slug: "oe3c-ugphymata"
 
 event: McMaster University
 
-location: Ontario Ecology, Ethology, and Evolution Colloquium
+location: Ontario Ecology, Ethology, and Evolution Colloquium (OE3C)
 
-summary: Poster. Ontario Ecology, Ethology, and Evolution Colloquium (OE3C).
+summary: Poster.
 
 abstract: "A fundamental question in ecology centers around species ranges and the limits of a physical niche space imposed by environmental variables. Species distribution models (SDM) provide the ability to identify the effect of environmental variables on species distributions and to forecast future environmentally-driven changes. One such SDM is `Maxent`, a machine-learning software that uses environmental raster grids to predict the probability of species presence within grids.
 <p>&nbsp;</p>
