@@ -68,6 +68,6 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Filter by [publication type]({{< ref "/publication/_index.md" >}}).
+Filter by [publication type]({{< ref "/publication/_index.md" >}}). Feel free to [email me](https://vickimzhang.rbind.io/#contact) for a PDF copy of any of my publications.
 {{% /callout %}}
 
