@@ -25,7 +25,7 @@ all_day: true
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: [admin, Peter M. Kotanen]
-tags: [phd, psf]
+tags: [phd, psf, 2021]
 
 # Is this a featured talk? (true/false)
 featured: true

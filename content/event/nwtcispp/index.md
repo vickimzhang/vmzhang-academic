@@ -15,13 +15,13 @@ abstract: "Non-native plant invasions are relatively uncommon in subarctic zones
 # End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-05-16"
 # date_end: "2022-05-16"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: [admin, Peter M. Kotanen]
-tags: [phd, projects, Churchill, fieldwork, 2022]
+tags: [phd, projects, Churchill, fieldwork, 2022, psf]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -40,7 +40,7 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: psf
+projects:
 
 
 # Enable math on this page?
