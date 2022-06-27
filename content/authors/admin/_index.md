@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto Mississauga
+- name: University of Toronto
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Science
+  - course: Doctor of Philosophy - Science
     institution: University of Toronto Mississauga
     year: in progress
   - course: Honours Bachelor's of Science

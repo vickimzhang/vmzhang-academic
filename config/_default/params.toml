@@ -107,8 +107,8 @@ office_hours = []
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/vicki_mzhang"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/vicki-m-zhang/"},
-  # {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/vmzhang"},
-  # {icon = "researchgate", icon_pack = "ai", name = "ResearchGate", link = "https://www.researchgate.net/profile/Vicki_M_Zhang"},
+  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/vickimzhang"},
+  {icon = "researchgate", icon_pack = "ai", name = "ResearchGate", link = "https://www.researchgate.net/profile/Vicki_M_Zhang"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
