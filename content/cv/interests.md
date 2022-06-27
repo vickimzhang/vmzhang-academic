@@ -22,4 +22,4 @@ subtitle = ""
 - Invasive species in the subarctic and tundra ecosystems
 - Conservation and biodiversity in the context of climate change
 
-For my complete research record, please see my (Publons)[https://publons.com/researcher/5146581/vicki-m-zhang/].
+For my complete research record, please see my [Publons](https://publons.com/researcher/5146581/vicki-m-zhang/).
