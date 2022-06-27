@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Philosophy - Science
+  - course: Doctor of Philosophy in Science
     institution: University of Toronto Mississauga
     year: in progress
   - course: Honours Bachelor's of Science
@@ -47,7 +47,7 @@ social:
   link: https://twitter.com/vicki_mzhang
 - icon: github
   icon_pack: fab
-  link: https://github.com/vmzhang
+  link: https://github.com/vickimzhang
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Vicki_M_Zhang
