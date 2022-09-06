@@ -44,9 +44,9 @@ subtitle = ""
 +++
 
 
-I started my graduate research in January 2020 with [Peter Kotanen](https://www.utm.utoronto.ca/~w3pkota/), transferred from a Master of Science degree to a Doctor of Science in February 2021, and passed my PhD Appraisal Exam in April 2022. My graduate work investigates  the invasion risk of non-native species in the subarctic. My fieldwork takes place in Churchill, Manitoba (the polar bear capital of the world), where I study the risk of non-native plants invasion in the subarctic. 
+I started my graduate research in January 2020 with [Peter Kotanen](https://www.utm.utoronto.ca/~w3pkota/), transferred from a Master of Science degree to a Doctor of Science in February 2021, and passed my PhD Appraisal Exam in April 2022. My graduate work investigates the factors that increase invasion risk of non-native species in the subarctic. My fieldwork takes place in Churchill, Manitoba (the polar bear capital of the world), where I conduct field surveys, transplants, and common garden experiments with many weedy non-native species.
 
-This research is becoming a crucial field of research, as pristine northern ecosystems are extremely vulnerable to climate change, which can increase the prevalence of invasive species.
+This research is becoming a crucial field of research, as natural native-dominated northern ecosystems are extremely vulnerable to climate change, which can increase the prevalence of invasive species.
 
 
-In addition to research, I will also be TAing "Arctic Field Ecology" (BIO332) offered Summer 2022 in Churchill, Manitoba. This field course will run from 27 July - 10 August 2022, with a focus on arctic and subarctic ecology. For more info, check out the [ad](https://www.utm.utoronto.ca/~w3pkota/arctic_field_course_ad_2022.pdf), slides from the recent [info session](https://www.utm.utoronto.ca/~w3pkota/info_session.pdf), and the [enrolment information](https://www.utm.utoronto.ca/~w3pkota/registration.pdf).
+In addition to research, I am a Teaching Assistant for "Arctic Field Ecology" (BIO332) offered in late July/early August in Churchill, Manitoba. This field course focuses on arctic and subarctic ecology, and its evolutionary, geographic and cultural history. There are also many chances to see and learn about wildlife!
