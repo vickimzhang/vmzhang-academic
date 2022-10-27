@@ -42,6 +42,12 @@ subtitle = ""
 
 ## Leadership
 
+**Admin**, Executive Council, UofTCoders| Sep 2021-present
+
+* Share coding skills in lessons and co-working sessions with the scientific community at UofT (lessons taught: 1; lessons helped: 3)
+* Responsible for internal communication between other council members
+* Inform members of events (create event postings for the website and contact instructors to create the event issue)
+
 **Site Coordinator**, Let's Talk Science (LTS) UTM | Sep 2020-present
 
 * Engage youth in STEM learning experiences

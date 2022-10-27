@@ -20,6 +20,10 @@ subtitle = ""
 
 ## Guest Lectures
 
+**Guest Lecturer, BIO332 (Arctic Field Ecology)**, Churchill | 1 Aug 2022
+
+* Delivered a 50-minute lecture on invasive species in Churchill.
+
 **Guest Lecturer, BIO330 (Plant Ecology)**, UTM | 23 Mar 2022
 
 * Delivered a 50-minute lecture on invasions and plant enemies at range margins.
@@ -45,6 +49,11 @@ subtitle = ""
 * Affected by university closure due to COVID-19 pandemic.
 
 ## Teaching Assistantships 
+
+**Teaching Assistant, BIO332 (Arctic Field Ecology)**, Churchill | Jul 27 2022-Aug 10 2022
+
+* Taught a rigorous 2-week field course in Churchill, Manitoba
+* Duties included: acting as a field guide and teaching students about wildlife while ensuring safety of class; moderating lectures; assisting in photodocumentation; advising student experiments; and marking assessments.
 
 **Teaching Assistant, BIO330 (Plant Ecology)**, UTM | Jan 2021-Apr 2021
 

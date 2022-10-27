@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "code"
+  icon_pack = "fa"
+  name = "Instructor"
+  description = "The Carpentries" 
+
+[[feature]]
   icon = "first-aid"
   icon_pack = "fa"
   name = "First Aid and CPR Level C"
