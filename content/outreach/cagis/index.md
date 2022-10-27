@@ -3,7 +3,7 @@
 title: Canadian Association for Girls in Science
 summary: ''
 date: 2020-05-21
-weight: 21
+weight: 22
 
 image:
   caption: CAGIS logo
