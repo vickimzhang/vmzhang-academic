@@ -76,3 +76,15 @@ subtitle = ""
 
 * Teach two weekly laboratory sections.
 * Duties include: preparing and running both indoor and field practicals; marking assignments, midterm and final examinations; invigilating examinations; and meeting with the professor other teaching assistants on a weekly basis.
+
+## Technical Workshops
+
+**Instructor, The Carpentries**, International | Aug 2022-present
+
+* teach and assist Carpentry workshops to spread data literacy and programmatic skills both locally and globally. 
+* to date: R for Reproducible Scientific Analysis (1)
+
+
+**Contributer, Instructor, Helper, UofTCoders**, UofT | Sep 2021-present
+
+* Share coding skills in lessons and co-working sessions with the scientific community at UofT (lessons taught: 1; lessons helped: 3)

@@ -40,11 +40,11 @@ subtitle = ""
 * Assisted incoming UC freshmen prepare for and transition into first year by providing a valuable personal connection, information about events, referrals to campus resources.
 * Answered all emails and questions.
 
+
 ## Leadership
 
 **Admin**, Executive Council, UofTCoders| Sep 2021-present
 
-* Share coding skills in lessons and co-working sessions with the scientific community at UofT (lessons taught: 1; lessons helped: 3)
 * Responsible for internal communication between other council members
 * Inform members of events (create event postings for the website and contact instructors to create the event issue)
 
