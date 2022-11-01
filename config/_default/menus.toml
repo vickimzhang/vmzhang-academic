@@ -51,20 +51,20 @@
   weight = 32
 
 [[main]]
-  name = "CAGIS"
-  url = "outreach#cagis"
+  name = "The Carpentries"
+  url = "outreach#carpentries"
   parent = "outreach"
   weight = 33
 
 [[main]]
-  name = "Side by Side"
-  url = "outreach#sidebyside"
+  name = "CAGIS"
+  url = "outreach#cagis"
   parent = "outreach"
   weight = 34
 
 [[main]]
-  name = "KSR"
-  url = "outreach#ksr"
+  name = "Side by Side"
+  url = "outreach#sidebyside"
   parent = "outreach"
   weight = 35
 
