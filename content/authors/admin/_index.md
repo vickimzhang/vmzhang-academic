@@ -73,6 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a field ecologist, writer, and educator.
 
 I am a PhD Candidate in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the persistence of invasive species in the subarctic and tundra. Other current projects include improving RStats, data visualization and modelling knowledge, and developing mentorship and pedagogical skills in university-level science courses and research.
 
