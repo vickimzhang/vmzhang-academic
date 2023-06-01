@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 #  url = ""
 #  certificate_url = ""
   date_start = "2023-06-01"
-  date_end = "20223-08-31"
+  date_end = "2023-08-31"
   description = "Awarded to fund resources for field research at the CNSC. Valued at $731."
 
 
