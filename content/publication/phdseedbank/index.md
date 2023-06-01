@@ -1,7 +1,7 @@
 ---
 title: Potential role of the seed bank in spreading invasive plants in a tundra-edge environment
 authors:
--Omer A. Syed
+- Omer A. Syed
 - admin
 - Peter M. Kotanen
 
