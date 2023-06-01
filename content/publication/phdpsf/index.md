@@ -1,13 +1,10 @@
 ---
 title: Development of negative soil feedback by an invasive plant near the northern limit of its invaded range
-
 authors:
-
 - admin
 - Peter M. Kotanen
 
-
-date: 2022-12-24
+date: 2023-04-01
 
 doi: ""
 
@@ -21,7 +18,7 @@ publishDate: "2021-06-30T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ArcticNet"
+publication: "Plant Ecology"
 publication_short: ""
 
 abstract: "In the Canadian subarctic, the non-native plant <i>Linaria vulgaris</i> has invaded human-disturbed soils in and around the town of Churchill, Manitoba (58.8ºN), but for decades has failed to spread into nearby tundra and taiga communities. One possible explanation for this stasis might be greater resistance by soil communities in uninvaded areas relative to areas where this plant has been long established; however, no local evidence for such plant-soil feedbacks yet exists. In one of the first studies to investigate the role of plant-soil feedbacks in an invasion at high latitudes, we planted <i>L. vulgaris</i> in soil serially inoculated with live and sterilized field-collected soil that was sampled either from invaded or uninvaded plots within anthropogenically-disturbed areas, and measured plant performance (biomass) over three greenhouse iterations. We also conducted basic soil chemical analyses to determine whether pH, and carbon, nitrogen, and phosphorous contents differ between invaded and uninvaded areas.
@@ -41,7 +38,7 @@ featured: true
 
 links:
 - name: Preprint
-  url: https://www.researchsquare.com/article/rs-2409538/latest
+  url: https://www.researchsquare.com/article/rs-2409538/v1
 
 # - name: Open Data
 #   url:

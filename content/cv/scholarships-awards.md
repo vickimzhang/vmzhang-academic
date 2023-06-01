@@ -26,6 +26,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Churchill Northern Studies Centre (CNSC)"
+#  organization_url = ""
+  title = "Northern Research Fund"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2023-06-01"
+  date_end = "20223-08-31"
+  description = "Awarded to fund resources for field research at the CNSC. Valued at $731."
+
+
+[[item]]
+  organization = "Government of Canada"
+#  organization_url = ""
+  title = "Northern Scientific Training Program"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2023-06-02"
+  date_end = ""
+  description = "Awarded to supplement field biology research in the 2022 field season. Valued at $4,000."
+
+[[item]]
   organization = "Natural Sciences and Engineering Research Council of Canada"
 #  organization_url = ""
   title = "Postgraduate Scholarships - Doctoral"
@@ -44,6 +65,16 @@ date_format = "Jan 2006"
   date_start = "2022-06-02"
   date_end = ""
   description = "Awarded to supplement field biology research in the 2022 field season. Valued at $4,600."
+  
+[[item]]
+  organization = "Churchill Northern Studies Centre (CNSC)"
+#  organization_url = ""
+  title = "Northern Research Fund"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2022-06-01"
+  date_end = "2022-08-31"
+  description = "Awarded to fund resources for field research at the CNSC. Valued at $1,050."
 
 [[item]]
   organization = "Natural Sciences and Engineering Research Council of Canada"
@@ -57,14 +88,14 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Churchill Northern Studies Centre"
+  organization = "Churchill Northern Studies Centre (CNSC)"
 #  organization_url = ""
   title = "Northern Research Fund"
 #  url = ""
 #  certificate_url = ""
   date_start = "2021-08-01"
   date_end = "2021-08-31"
-  description = "Awarded to fund resources for field research. Valued at $1,137."
+  description = "Awarded to fund resources for field research at the CNSC. Valued at $1,137."
   
 
 [[item]]
@@ -86,7 +117,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2020-07-01"
   date_end = "2021-08-31"
-  description = "Awarded to supplement field biology research (carried forward into 2021 field season, as the 2022 field season was cancelled due to COVID-19). Valued at $3,500."
+  description = "Awarded to supplement field biology research (carried forward into 2021 field season, as the 2020 field season was cancelled due to COVID-19). Valued at $3,500."
 
 [[item]]
   organization = "Sigma Xi Fund of Canada"
@@ -106,7 +137,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "Awarded to partially fund field biology research. Valued at ~$5,500."
+  description = "Awarded to partially fund research stipend. Valued at ~$5,500."
 
 [[item]]
   organization = "Koffler Scientific Reserve"
@@ -116,7 +147,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2019-05-01"
   date_end = "2019-08-31"
-  description = "Awarded by KSR to fund an independent undergraduate summer research project. Valued at $6,000."
+  description = "Awarded by KSR to fund stipend during an independent undergraduate summer research project. Valued at $6,000."
   
 [[item]]
   organization = "University College"
