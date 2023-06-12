@@ -38,6 +38,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   For academic icons: https://jpswalsh.github.io/academicons/ 
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,9 +55,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7426-723X
-- icon: publons
+- icon: clarivate
   icon_pack: ai
-  link: https://publons.com/researcher/5146581/vicki-m-zhang/
+  link: https://www.webofscience.com/wos/author/record/3838758
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
