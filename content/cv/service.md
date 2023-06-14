@@ -43,7 +43,7 @@ subtitle = ""
 
 ## Leadership
 
-**Admin**, Executive Council, UofTCoders| Sep 2021-present
+**Admin**, Executive Council, UofTCoders | Sep 2021-present
 
 * Responsible for internal communication between other council members
 * Inform members of events (create event postings for the website and contact instructors to create the event issue)
@@ -118,6 +118,20 @@ subtitle = ""
 
 * Invited.
 * Presented my undergraduate research and academic experience within department to undergraduate students.
+
+
+## Workshops
+
+**Instructor, The Carpentries**, International | Aug 2022-present
+
+* teach and assist Carpentry workshops to spread data literacy and programmatic skills both locally and globally. 
+* to date: R for Reproducible Scientific Analysis (1)
+
+
+**Contributer, Instructor, Helper, UofTCoders**, UofT | Sep 2021-present
+
+* Share coding skills in lessons and co-working sessions with the scientific community at UofT (lessons taught: 1; lessons helped: 3)
+
 
 ## Volunteer
 
