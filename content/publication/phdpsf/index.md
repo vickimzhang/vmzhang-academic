@@ -41,7 +41,9 @@ tags:
 featured: true
 
 links:
-- name: Read-only
+- name: Article Link
+  url: 10.1007/s11258-023-01330-4
+- name: Full Text (read-only)
   url: https://rdcu.be/deUIj
 
 # - name: Open Data
