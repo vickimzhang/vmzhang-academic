@@ -172,6 +172,12 @@ subtitle = ""
 
 **Volunteer**, Burnaby Hospice Society and Thrift Store | 2013
 
+## Departmental Committees
+
+**Curriculum Committee**, Biology Department, UTM | Sep 2023-present
+
+**EDI Committee**, Biology Department, UTM | Sep 2020-Aug 2021
+
 ## Professional Membership
 
 Canadian Society for Ecology and Evolution;

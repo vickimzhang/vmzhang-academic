@@ -25,8 +25,6 @@ abstract: "In the Canadian subarctic, the non-native plant <i>Linaria vulgaris</
 <br/><br/>
 There was no initial difference in plant biomass between soil inoculation treatments in the first two iterations. However, by iteration 3, we found that sterilization significantly increased <i>L. vulgaris</i> biomass in invaded soils, indicating feedback gradually becomes more negative in invaded soils compared to uninvaded soils. Soil chemistry did not differ significantly between invaded and uninvaded soils, though there was a tendency for invaded soils to contain slightly more carbon and nitrogen. These results reject the possibility than <i>L. vulgaris</i> is absent from uncolonized sites because their soil communities resist invasion. Instead, they provide evidence that <i>L. vulgaris</i> is inhibited by plant-soil feedbacks in invaded soils, while feedbacks in native-dominated soils do not represent a barrier to further local spread. Thus, explanations for the restriction of this species to anthropogenically modified areas must lie elsewhere.
 <br/><br/>
-<i>In press.</i>
-
 "
 
 # Summary. An optional shortened abstract.

@@ -34,6 +34,16 @@ date_format = "Jan 2006"
   date_start = "2023-06-01"
   date_end = "2023-08-31"
   description = "Awarded to fund resources for field research at the CNSC. Valued at $731."
+  
+[[item]]
+  organization = " (CGCS)"
+#  organization_url = ""
+  title = "Graduate Student Research Award"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2023-06-01"
+  date_end = "2023-12-31"
+  description = "Awarded as additional support for international conferences. Valued at $3763."
 
 
 [[item]]
@@ -44,7 +54,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2023-06-02"
   date_end = ""
-  description = "Awarded to supplement field biology research in the 2022 field season. Valued at $4,000."
+  description = "Awarded to supplement field biology research in the 2023 field season. Valued at $4,000."
 
 [[item]]
   organization = "Natural Sciences and Engineering Research Council of Canada"
