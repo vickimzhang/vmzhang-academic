@@ -20,7 +20,14 @@ subtitle = ""
 
 ## Course Instructorship
 
-**Quantitative Methods in R for Biology (EEB313)**, UofT | Sep-Dec 2022
+**Data Mining, Modeling and Biostatistics (BINF 5003)**, Humber College | Sep-Dec 2023
+
+* Teach theory and concepts (1 hour lecture) and code‑along lesson (3 hour tutorial) weekly that cover topics such as introduction to R, data
+analysis and visualization, predictive modeling, dimension reduction, and clustering
+* Guide students through an independent research project
+* Note: this course is one of five courses that are part of the Graduate Certificate in Clinical Bioinformatics
+
+**Quantitative Methods in R for Biology (EEB313)**, UofT | Sep-Dec 2023, 2022
 
 * Helped undergrad students develop skills in R using applied problems in ecology and evolutionary biology
 * Used code-along lectures to teach syntax, functions, data management, data manipulation, visualization, modelling, statistical analysis, and simulation for solving biological problems
@@ -29,12 +36,12 @@ subtitle = ""
 
 ## Teaching Assistantships 
 
-**Arctic Field Ecology (BIO332**, Churchill | 20 Jun-3 Aug 2023, 27 Jul-10 Aug 2022
+**Arctic Field Ecology (BIO332)**, Churchill | 20 Jun-3 Aug 2023, 27 Jul-10 Aug 2022
 
 * Taught a rigorous 2-week field course in Churchill, Manitoba
 * Duties included: acting as a field guide and teaching students about wildlife while ensuring safety of class; moderating lectures; assisting in photodocumentation; advising student experiments; and marking assessments.
 
-**Plant Ecology (BIO330))**, UTM | Jan 2021-Apr 2023, 2022, 2021
+**Plant Ecology (BIO330)**, UTM | Jan 2021-Apr 2023, 2022, 2021
 
 * Designed and taught two weekly discussion-based tutorial sections.
 * Duties included: preparing and running tutorials; moderating lectures; marking assignments and final examinations; and meeting with the instructor and other teaching assistants on a weekly basis.
@@ -87,6 +94,8 @@ subtitle = ""
 * Affected by university closure due to COVID-19 pandemic.
 
 ## Technical Workshops
+
+
 
 **Introduction to R**, Bioinformatics.ca | 26-27 Jun 2023
 
