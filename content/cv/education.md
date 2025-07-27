@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of Toronto Mississauga (UTM)"
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2025-12-31"
   description = """
   * Focus of Study: Ecology and Evolutionary Biology (EEB).
   * Thesis: Invasion risk of non-native species in the subarctic (in progress). Supervised by [Dr. Peter Kotanen](https://www.utm.utoronto.ca/~w3pkota/).

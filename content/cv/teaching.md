@@ -20,14 +20,27 @@ subtitle = ""
 
 ## Course Instructorship
 
-**Data Mining, Modeling and Biostatistics (BINF 5003)**, Humber College | Sep-Dec 2023
+**Data Mining, Modeling and Biostatistics (BINF 5003)**, Humber Polytechnic | Jan-Apr 2025
 
-* Teach theory and concepts (1 hour lecture) and code‑along lesson (3 hour tutorial) weekly that cover topics such as introduction to R, data
-analysis and visualization, predictive modeling, dimension reduction, and clustering
+* Taught theory, concepts, and code‑along classes (3 hours) weekly to mature learners that cover topics such as introduction to R, data analysis and visualization, predictive modeling, dimension reduction, and clustering
 * Guide students through an independent research project
+* Note: this course is one of five courses that are part of the Graduate Certificate in Clinical Bioinformatics for international students
+
+**Plant Ecology (BIO330)**, University of Toronto Mississauga | Sep-Dec 2024
+* Taught biweekly hour‑long lectures to upper year undergraduate students that cover topics related to the population and community ecology of plants
+* Topics include: resource acquisition, growth and reproduction, mutualisms, competition, defense, invasions, disturbance, population dynamics, and community structure
+
+**Data Analytics and Storytelling (BINF5503)**, Humber Polytechnic | Jan-Apr 2024
+* Taught concepts and code‑along lesson (3 hour class) weekly to mature learners that cover topics including data statistics and visualizations in R and Python, command line, reproducibility, interactive web apps, and scientific literacy and communication
 * Note: this course is one of five courses that are part of the Graduate Certificate in Clinical Bioinformatics
 
-**Quantitative Methods in R for Biology (EEB313)**, UofT | Sep-Dec 2023, 2022
+**Data Mining, Modeling and Biostatistics (BINF 5003)**, Humber Polytechnic | Sep-Dec 2023
+
+* Taught theory and concepts (1 hour lecture) and code‑along lesson (3 hour tutorial) weekly to mature learners that cover topics such as introduction to R, data analysis and visualization, predictive modeling, dimension reduction, and clustering
+* Guide students through an independent research project
+* Note: this course is one of five courses that are part of the Graduate Certificate in Clinical Bioinformatics.
+
+**Quantitative Methods in R for Biology (EEB313)**, University of Toronto | Sep-Dec 2023, 2022
 
 * Helped undergrad students develop skills in R using applied problems in ecology and evolutionary biology
 * Used code-along lectures to teach syntax, functions, data management, data manipulation, visualization, modelling, statistical analysis, and simulation for solving biological problems
@@ -36,27 +49,21 @@ analysis and visualization, predictive modeling, dimension reduction, and cluste
 
 ## Teaching Assistantships 
 
-**Arctic Field Ecology (BIO332)**, Churchill | 20 Jun-3 Aug 2023, 27 Jul-10 Aug 2022
+**Arctic Field Ecology (BIO332)**, Churchill | 24 Jul-7 Aug 2025, 27 Jul-10 Aug 2024, 20 Jun-3 Aug 2023, 27 Jul-10 Aug 2022
 
 * Taught a rigorous 2-week field course in Churchill, Manitoba
-* Duties included: acting as a field guide and teaching students about wildlife while ensuring safety of class; moderating lectures; assisting in photodocumentation; advising student experiments; and marking assessments.
+* Duties included: acting as a field guide and teaching students about wildlife while ensuring safety of class; moderating lectures; assisting in photodocumentation; advising student experiments; and marking assessments
 
-**Plant Ecology (BIO330)**, UTM | Jan 2021-Apr 2023, 2022, 2021
+**Plant Ecology (BIO330)**, UTM | Jan-Apr 2023, 2022, 2021, 2020*
 
-* Designed and taught two weekly discussion-based tutorial sections.
-* Duties included: preparing and running tutorials; moderating lectures; marking assignments and final examinations; and meeting with the instructor and other teaching assistants on a weekly basis.
-* Virtual
+* Designed and taught two weekly discussion-based tutorial sections
+* Duties included: preparing and running tutorials; moderating lectures; marking assignments and final examinations; and meeting with the instructor and other teaching assistants on a weekly basis
+* *Affected by university closure due to COVID-19 pandemic
 
 **Ecology (BIO205)**, UTM | Sep-Dec 2020
 
 * Run two weekly help sections virtually.
 * Administrative Assistant: Perform administrative tasks for class of 350+ students.
-
-**Plant Ecology (BIO330)**, UTM | Jan 2020-Apr 2020
-
-* Designed and taught two weekly discussion-based tutorial sections.
-* Duties included: preparing and running tutorials; marking assignments and final examinations; assisting students with course material; and meeting with the instructor and other teaching assistants on a weekly basis.
-* Affected by university closure due to COVID-19 pandemic.
 
 **Ecology (Sessional Instructional Assistant, BIO205)**, UTM | Sep-Dec 2019
 
@@ -65,37 +72,44 @@ analysis and visualization, predictive modeling, dimension reduction, and cluste
 
 ## Guest Lectures
 
+**BIO332 (Arctic Field Ecology)**, Churchill | 31 Jul 2024
+
+* Invasive species at the edge of the Arctic
+
+**BIO332 (Arctic Field Ecology)**, Churchill | 25 Jul 2023
+
+* Invasive species at the edge of the Arctic
+
+**BIO330 (Plant Ecology)**, UTM | 27 Mar 2023
+
+* Range limits, invaders, and enemies
+
 **BIO332 (Arctic Field Ecology)**, Churchill | 1 Aug 2022
 
-* Delivered a 50-minute lecture on invasive species in Churchill.
+* Invasive species at the edge of the Arctic
 
 **BIO330 (Plant Ecology)**, UTM | 23 Mar 2022
 
-* Delivered a 50-minute lecture on invasions and plant enemies at range margins.
+* Range limits, invaders, and enemies
 
 **BIO318/328 (Animal Behaviour)**, UTM | 7 Feb 2022
 
-* Delivered a 50-minute lecture focused on range shifts and hybridisation.
-* Virtual
+* Range shifts, hybridisation, and climate change (virtual)
 
 **BIO330 (Plant Ecology)**, UTM | 24 Mar 2021
 
-* Designed and delivered a 50-minute lecture on invasions and plant enemies at range margins.
-* Virtual.
+* Range limits, invaders, and enemies (virtual)
 
 **BIO318/328 (Animal Behaviour)**, UTM | 1 Mar 2021
 
-* Designed and delivered a 50-minute lecture focused on range shifts and hybridisation.
-* Virtual.
+* Range shifts, hybridisation, and climate change (virtual)
 
 **BIO330 (Plant Ecology)**, UTM | 25 Mar 2020
 
-* Designed and delivered a 50-minute electronic guest lecture focused on range limits.
-* Affected by university closure due to COVID-19 pandemic.
+* Range limits, invaders, and enemies (virtual)
+
 
 ## Technical Workshops
-
-
 
 **Introduction to R**, Bioinformatics.ca | 26-27 Jun 2023
 

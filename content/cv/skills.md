@@ -43,13 +43,19 @@ subtitle = ""
   icon = "language"
   icon_pack = "fa"
   name = "English"
-  description = "Native speaker; strong reading and writing literacy."
+  description = "Native."
 
 [[feature]]
   icon = "language"
   icon_pack = "fa"
   name = "Mandarin Chinese"
-  description = "Native speaker; Intermediate reading and writing literacy."
+  description = "Native."
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fa"
+  name = "French"
+  description = "B2."
 
 # Uncomment to use emoji icons.
 # [[feature]]

@@ -31,6 +31,27 @@ date_format = "Jan 2006"
   title = "Northern Research Fund"
 #  url = ""
 #  certificate_url = ""
+  date_start = "2024-06-01"
+  date_end = "2024-08-31"
+  description = "Awarded to fund resources for field research at the CNSC. Valued at $500."
+  
+[[item]]
+  organization = "Government of Canada"
+#  organization_url = ""
+  title = "Northern Scientific Training Program"
+#  url = ""
+#  certificate_url = ""
+  date_start = "2024-06-02"
+  date_end = ""
+  description = "Awarded to supplement field biology research in the 2024 field season. Valued at $3,600."
+  
+
+[[item]]
+  organization = "Churchill Northern Studies Centre (CNSC)"
+#  organization_url = ""
+  title = "Northern Research Fund"
+#  url = ""
+#  certificate_url = ""
   date_start = "2023-06-01"
   date_end = "2023-08-31"
   description = "Awarded to fund resources for field research at the CNSC. Valued at $731."
@@ -64,7 +85,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2023-01-01"
   date_end = "2025-12-31"
-  description = "Valued at $63,000."
+  description = "Valued at $63,000 over three years."
 
 [[item]]
   organization = "Government of Canada"

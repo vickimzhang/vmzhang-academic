@@ -18,21 +18,40 @@ subtitle = ""
 
 # Scientific Service
 
+## Departmental Committees
+
+**Atwood Colloquium in Ecology and Evolution Co‑Chair**, Department of Ecology and Evolutionary Biology, University of Toronto | 2022*, 2023
+* Organized the annual departmental colloquium: coordinated with and delegated tasks among volunteers, communicated with invited speakers, handled administrative, scheduling, and day‑of logistics
+* *Hybrid; included more technical responsibilities including assisting with online activities that seamlessly blended with in‑person experiences
+
+**Equity, Diversity, and Elimination of Racism (EDERD) Committee**, Department of Biology, University of Toronto | Sep 2021-Aug 2022
+* Responsible for providing oversight on community outreach, organization of a speaker series on topics related to the history, philosophy and
+culture of science academia, identifying and addressing both systematic and individual discriminatory matters at the departmental level
+* Helped to develop, administer, and analyze responses from a department‑wide survey, providing insight and making recommendations to the Chair to increase equity, diversity, and inclusion
+
+**Seminar Committee**, Department of Biology, University of Toronto | Sep 2020-Aug 2021
+* Responsible for organizing weekly seminars: coordinated with invited speakers and host labs, moderated questions, and facilitated discussion during grad student lunches
+* Helped establish the biannual Special Topics Seminars, featuring speakers selected by grad students that present diverse biology topics beyond the scope of research (e.g., pedagogy, commnication, philosophy and history of science, policy, art, EDI, etc.).
+
 ## Mentorship 
+
+**Grad Mentor**, EEB Grad Mentorship Program | Sep 2020-Apr 2023
+* Total graduate mentees to date: 3
 
 **Graduate Mentor**, Grad Connect Mentorship Program | Oct 2019-Mar 2022
 
-* Mentor a senior undergraduate student in the UTM Biology department.
-* Meet bimonthly to discuss graduate school, experiences, and hurdles in school or professional employment.
+* Meet bimonthly to discuss graduate school, experiences, and hurdles in school or professional employment
+* Total mentees to date: 2 (senior Biology undergraduate students).
+
+**Mentor**, Mentorship and Summer Research Program, Side By Side Agency | 2020-2022
+* Total mentees to date: 4; panels served to date: 4.
 
 **Scientist Mentor and Liason**, PlantingScience | Sep 2019-Apr 2020
-
 * Mentor student research teams online.
 * Assist on student projects and inspire appreciation for science and plants.
 * Sponsored by the Ecological Society of America (ESA).
 
 **Peer Mentor**, Ecology and Evolutionary Biology Peer Mentorship Program | Oct 2018-Mar 2019
-
 * Assisted two incoming 2nd year EEB students integrate into U of T EEB community, shared experiences, ensured mentees are aware of opportunities and resources.
 * Attended events, workshops and lab meetings with mentees.
 
@@ -43,38 +62,31 @@ subtitle = ""
 
 ## Leadership
 
-**Admin**, Executive Council, UofTCoders | Sep 2021-present
+**Sports Rep**, UTM Biology Graduate Student Society (BGSS) | Jun 2023-Apr 2024
+* Promote physical wellbeing of graduate students. Organize active workshops and events for the Biology graduate community
+* Manage volleyball intramurals team comprised of the Biology graduate students over two semesters
 
-* Responsible for internal communication between other council members
-* Inform members of events (create event postings for the website and contact instructors to create the event issue)
-
-**Site Coordinator**, Let's Talk Science (LTS) UTM | Sep 2020-present
-
-* Engage youth in STEM learning experiences
-* Organize programming and outreach, communicate with volunteers.
+**Administrative Executive**, Executive Council, UofTCoders | Sep 2021-present
+* Build community between researchers in other departments through panels and social events, allowing graduate students to connect with each other and share coding and technical skills
+* Perform any administrative duties, including scheduling, promotion, and communication with Coders community
 
 **EEB Rep**, UTM Biology Graduate Student Society (BGSS) | Jun 2020-May 2022
-
 * Represent and engage EEB graduate students in departmental events.
 * Contribute to event planning and execution.
 
 **UTM Rep**, EEB Graduate Student Association (EGSA) | Jun 2020-May 2021
-
 * Represent the EEB graduate students based at UTM and convey updates and information between campuses.
 
 **Communications Director**, UTM Biology Graduate Student Society (BGSS) | Sep 2019-May 2020
-
 * Convey informational messages between internal executives and external biology graduate students.
 * Assist in organizing and promoting social events.
 
 **CUPE Steward**, EEB Graduate Student Association (EGSA) | Sep 2019-May 2020
-
 * CUPE Local 3902 Unit 1.
 * Relay information on Union updates and benefit coverage to graduate students. Attend steward’s council meetings.
 * Run information on sessions on healthcare and other benefits.
 
 **President**, U of T Table Tennis Club (UTTTC) | Apr 2018-Mar 2020
-
 * Act as the spokesperson for the club externally.
 * Responsible for the organization, administration and continuity of the club. Make important decisions regarding all aspects of the club, prepare and follow a detailed schedule of the club for an academic year, delegate duties among executive members.
 * Ensure availability in supporting other executives in their role.
@@ -90,16 +102,15 @@ subtitle = ""
 
 ## Outreach
 
-**Graduate Speaker**, Research Scholars Fair | 7 Feb 2020
+**Site Coordinator**, Let's Talk Science (LTS) UTM | Sep 2020-Aug 2025
 
-* Invited.
-* Shared my undergraduate research experience, and my pathway to and current experience in grad school; discussed my involvement with mentorship.
+* Engage youth in STEM learning experiences
+* Liaise with educators, schedule programming and outreach, manage, train, and support over 200 undergraduate volunteers that deliver hands-on STEM activities to K‑12 students in the Peel Region
+* Organize highly‑attended community events such as the Let’s Talk Science Challenge and Science Rendezvous
 
-
-**Graduate Speaker**, Meet the Grad Night | 18 Nov 2019
-
-* Invited.
-* Presented my previous research and academic experience, network within the science community, discuss options and opportunities with undergraduate students.
+**Graduate Speaker**, Grad Connect, University of Toronto Mississauga | 2019-2022
+* Invited. Presented on panels & answered questions during Q&A on my undergraduate research experience, my pathway to and current experience in grad school, and current research
+* Total panels served: 3 (Research Scholars Fair, Meet the Grad Night)
 
 **Station Scientist**, Classroom Field Trip at KSR | 28 Oct 2019
 * Organized a “Trees and Plants” station for a class of grade 5/6 students.
@@ -135,31 +146,27 @@ subtitle = ""
 
 ## Volunteer
 
-**Co-Chair**, Atwood Colloquium in Ecology and Evolution (Hybrid) | 21-22 Apr 2022
+**Lead Volunteer**, Atwood Colloquium in Ecology and Evolution | Apr 2024, 2025
+* Liaise with three invited speakers and coordinate schedules
+* Organize and coordinate a team of volunteers to set up refreshments, and clean up
 
-* Organized the annual departmental colloquium, coordinated and delegated tasks among volunteers, communicated with invited speakers, created schedules, which included sessions, plenaries, and other events
 
 **Graduate Core Volunteer & Moderator**, Atwood Colloquium in Ecology and Evolution (Virtual) | 17-18 Apr 2021
-
 * Assisted in setting up, organizing, coordinating, and moderating a virtual colloquium
 
 
 **Undergraduate Volunteer**, Atwood Colloquium in Ecology and Evolution | Apr 2018
-
 * Assisted in the success of the colloquium as part of the set up and clean up committee.
 
 
 **Volunteer**, Toronto Undergraduate Linguistic Conference (TULCON) | Mar 2018
-
 * Assisted in signing in presenters, tracking conference attendees, directing attendees, and selling t-shirts as part of the Welcome and Registration Committee.
 
 **Facilitated Study Group Leader**, U of T Society of Linguistic Undergraduates | 2017-2018
-
 * Designed fun and unique activities for LIN101 (Introduction to Linguistics: Sound Structure), LIN102 (Introduction to Linguistics: Sentence Structure and Meaning), and LIN332 (Syntactic Patterns in Language).
 * Led a class of students and helped them review material for upcoming examinations.
 
 **Peer Tutor and Coordinator**, Math Elite | 2012-2016
-
 * Tutored middle and high school students up to three times a week after school.
 * Coordinated, led and taught a class of student-athletes.
 * Taught and strengthened skills in math, sciences, social studies, English and French.
