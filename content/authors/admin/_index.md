@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:vm.zhang@mail.utoronto.ca".
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/vicki_mzhang
+  link: https://bsky.app/profile/vickimzhang.bsky.social
 - icon: github
   icon_pack: fab
   link: https://github.com/vickimzhang
@@ -74,9 +74,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a field ecologist, writer, and educator.
+I am a field ecologist and educator.
 
-I am a PhD Candidate in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the risk of invasive species at the edge of the Arctic. Other current projects include: using statistics, data visualization, and mathematical modeling in R and Python for science communication; developing best practices for mentorship and pedagogy in university-level science courses, outreach, and research. 
+I am a PhD Candidate in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the effect of human impacts on invasive species at the edge of the Canadian Arctic. Other current projects include: using statistics, data visualization, and mathematical modeling in R and Python for science communication; developing best practices for mentorship and pedagogy in university-level science courses, outreach, and research. 
 
 
 I completed my Honour's Bachelor of Science in the Department of Ecology and Evolutionary Biology at the University of Toronto. My undergraduate thesis work was supervised by [Locke Rowe](https://rowe.eeb.utoronto.ca/) and [David Punzalan](https://www.davidpunzalan.com/), where I investigated the distributions and range shifts of two ambush bug species, _Phymata americana_ and _P. pennsylvanica_.
