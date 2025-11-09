@@ -38,7 +38,7 @@ featured: true
 links:
 - name: Article Link
   url: 10.1007/s00442-025-05808-y 
-- name: Read-only
+- name: Full Text (read-only)
   url: https://rdcu.be/eIYrQ
 
 # - name: Open Data

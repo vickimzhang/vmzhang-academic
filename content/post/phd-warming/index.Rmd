@@ -1,0 +1,27 @@
+---
+title: Low temperatures restrict invasive species in Churchill
+subtitle: ''
+summary: 
+author: [Vicki M. Zhang]
+date: '2025-10-01'
+slug: phd-warming
+
+categories:
+  - PhD
+
+tags: [2025, 2025-Oct, Churchill, fieldwork, projects]
+
+featured: yes
+image:
+  caption: My first week doing fieldwork in Churchill!
+  focal_point: "smart"
+  preview_only: true
+projects: [phdsubarcticinv]
+  
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+## 
+

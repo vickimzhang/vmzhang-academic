@@ -3,7 +3,7 @@ title: Limits to Non-Native Plant Invasions in the Canadian Subarctic
 summary:
 date: 2025-12-03
 
-image: featured.jpg
+image: 
   caption: Photo by Peter Kotanen
   focal_point: Smart
 

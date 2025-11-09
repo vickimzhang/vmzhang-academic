@@ -10,15 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Quantitative Ecologist and Researcher
 
 # Organizations/Affiliations
 organizations:
+- name: ApexRMS
+  url: ""
 - name: University of Toronto
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate at UofT studying invasive species in the subarctic, and am passionate about science communication and outreach.
+bio: I am a quantitative ecologist using computational tools to support data-driven decisions in ecology. I received my PhD at the University of Toronto, where I studied invasive species in the subarctic, in addition to instructing courses in ecology, botany, and statistics at UofT and Humber Polytechnic.
 
 interests:
 - terrestrial invasion ecology in northern latitudes
@@ -29,7 +31,7 @@ education:
   courses:
   - course: Doctor of Philosophy in Science
     institution: University of Toronto Mississauga
-    year: in progress
+    year: 2025
   - course: Honours Bachelor's of Science
     institution: University of Toronto
     year: 2019
@@ -75,6 +77,8 @@ user_groups:
 - Visitors
 ---
 I am a field ecologist and educator.
+
+I just started a role as a Quantitative Ecologist with [ApexRMS](https://apexrms.com/), and I am excited to transition to applied ecological consulting and data science for conservation. Stay tuned!
 
 I am a PhD Candidate in the [Kotanen Lab](https://www.utm.utoronto.ca/~w3pkota/) at the University of Toronto at Mississauga. For my graduate work, I am investigating the effect of human impacts on invasive species at the edge of the Canadian Arctic. Other current projects include: using statistics, data visualization, and mathematical modeling in R and Python for science communication; developing best practices for mentorship and pedagogy in university-level science courses, outreach, and research. 
 

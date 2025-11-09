@@ -9,84 +9,90 @@
   weight = 10
 
 [[main]]
+  name = "Career"
+  url = "career/"
+  identifier = "career"
+  weight = 20
+
+[[main]]
   name = "Research"
   url = "research/"
   identifier = "research"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "PhD Research"
   url = "research#phd"
   parent = "research"
-  weight = 21
+  weight = 31
 
 [[main]]
   name = "Undergrad Research"
   url = "research#ugprojects"
   parent = "research"
-  weight = 22
+  weight = 32
 
 [[main]]
   name = "Outreach"
   url = "outreach/"
   identifier = "outreach"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Why outreach?"
   url = "outreach/"
   parent = "outreach"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "LTS"
   url = "outreach#lts"
   parent = "outreach"
-  weight = 31
+  weight = 41
 
 [[main]]
   name = "UofT Coders"
   url = "outreach#uoftcoders"
   parent = "outreach"
-  weight = 32
+  weight = 42
 
 [[main]]
   name = "The Carpentries"
   url = "outreach#carpentries"
   parent = "outreach"
-  weight = 33
+  weight = 43
 
 [[main]]
   name = "CAGIS"
   url = "outreach#cagis"
   parent = "outreach"
-  weight = 34
+  weight = 44
 
 [[main]]
   name = "Side by Side"
   url = "outreach#sidebyside"
   parent = "outreach"
-  weight = 35
+  weight = 45
 
 [[main]]
   name = "Journal"
   url = "post/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "CV"
   url = "cv/"
   identifier = "cv"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 70
+#    weight = 80
