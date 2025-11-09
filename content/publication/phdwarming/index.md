@@ -1,12 +1,12 @@
 ---
-title:  Low temperatures reduce establishment of new populations of invasive plants in a subarctic treeline environment
+title: Low temperatures reduce establishment of new populations of invasive plants in a subarctic treeline environment
 authors:
 - admin
 - Peter M. Kotanen
 
 date: 2025-09-30
 
-doi: "10.1007/s00442-025-05808-y"
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-30T00:00:00Z"
@@ -21,9 +21,7 @@ publication_types: ["2"]
 publication: "Oecologia"
 publication_short: ""
 
-abstract: "
-Biological invasions are a serious global issue, but invasions are relatively less common at high latitudes, likely due to harsh environmental conditions and limited accessibility. An exception to this is human-settled and disturbed towns that may promote invasions and risk acting as sources of non-native species into the surrounding natural areas. For instance, Churchill, Manitoba, Canada (58ºN), is a treeline subarctic town and port connected by a railway to temperate North America. More than a hundred non-native plant species have been recorded within the town footprint and associated areas. While some have persisted for decades in these areas, none has spread into nearby tundra or boreal forest ecosystems. We used a greenhouse warming experiment to investigate the importance of increased growing season temperatures on three perennial non-native species (Linaria vulgaris, Plantago major, Taraxacum officinale), and used a transplant experiment to investigate non-native survival and growth after manual translocation to tundra and boreal forest roadside over several full years. We found that non-native plants were able to survive temporarily after manual translocation to roadsides adjacent to natural areas, with higher survival in warmer boreal forest roadsides. When we experimentally increased temperature, non-native seed germination increased, and non-native transplants trended toward increased survival and growth, again suggesting that temperature is a limiting factor. However, survival and growth of these non-native species consistently declined over time. Future global and climate change that results in increased warming therefore may shift these non-native species from invasion failure to success.
-"
+abstract: "Although relatively infrequent, invasions by non-native plants at high latitudes are increasingly recognized as an emerging problem. Churchill, MB, Canada is unusual as over 100 non-native species have been found in human-disturbed areas, making it an outlier amongst subarctic habitats. Although these non-native species have persisted almost exclusively within town, some occur in isolated locations throughout the local road network. Most of these non-native species have been observed in areas with a history of soil movement (e.g., for construction or road repairs), suggesting that they have been moved within the soil, likely either germinating from seeds or growing clonally from root and rhizome fragments. Using a greenhouse experiment, we found evidence that soils from human-disturbed sites can contain a substantial non-native seed bank. In particular, we grew a significantly higher number of non-native seedlings from translocated soils compared with uninvaded soils. These germinated non-native species are native to Europe but have widely invaded temperate regions. This study provides the first direct evidence that movement of seed-contaminated soil is a significant source of local non-native species spread. Future warming in Arctic regions may increase seed production of these species, leading to increased spread and persistence via contaminated soil."
 
 # Summary. An optional shortened abstract.
 summary: We investigate factors that cause failed invasions in natural ecosystems. We replicate across the tundra-boreal edge for several years and find evidence that low summer temperatures inhibit invasions.
@@ -39,8 +37,8 @@ featured: true
 
 links:
 - name: Article Link
-  url: 0.1007/s00442-025-05808-y
-- name: Full Text (read-only)
+  url: 10.1007/s00442-025-05808-y 
+- name: Read-only
   url: https://rdcu.be/eIYrQ
 
 # - name: Open Data
